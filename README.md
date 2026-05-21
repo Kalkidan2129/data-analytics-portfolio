@@ -2,26 +2,7 @@
 
 ## Skills & Tools
 
-<img src="https://img.shields.io/badge/Data%20Analytics-0A66C2?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/ETL-0A66C2?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Science-0A66C2?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Reporting-0A66C2?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Warehousing-0A66C2?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Case%20Study-0A66C2?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Demand%20Forecasting-0A66C2?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20Sales%20Forecasting-0A66C2?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/PowerBI-0A66C2?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-0A66C2?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Python%20-%20Pandas-0A66C2?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-0A66C2?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Finance-0A66C2?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Instructions-0A66C2?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Telecommunications-0A66C2?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-0A66C2?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Retail-0A66C2?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20bi-0A66C2?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Sales-0A66C2?style=for-the-badge&logoColor=white" />
+<span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">Data Analytics</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">ETL</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">Data Science</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">Reporting</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">Data Warehousing</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">Case Study</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">Machine Learning</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">Demand Forecasting</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">AI Sales Forecasting</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">PowerBI</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">Python</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">Python - Pandas</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">Power BI</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">Finance</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">Instructions</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">Telecommunications</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">Excel</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">Retail</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">Power bi</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">Sales</span>
 
 ---
 
