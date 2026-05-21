@@ -8,7 +8,7 @@
 
 ## About
 
-This portfolio highlights 2 data analytics and business intelligence projects, focusing on Data Analytics, ETL, Data Science, Reporting, Data Warehousing. It demonstrates practical experience in transforming project work into clear, structured, and recruiter-friendly analytics stories.
+This portfolio highlights 2 data analytics and business intelligence projects, focusing on forecasting, telecommunications, retail intelligence, machine learning, business performance analysis. It demonstrates practical experience in transforming project work into clear, structured, and recruiter-friendly analytics stories.
 
 ---
 
