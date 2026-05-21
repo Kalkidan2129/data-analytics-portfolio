@@ -2,7 +2,47 @@
 
 ## Skills & Tools
 
-<span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">Data Analytics</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">ETL</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">Data Science</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">Reporting</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">Data Warehousing</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">Case Study</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">Machine Learning</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">Demand Forecasting</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">AI Sales Forecasting</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">PowerBI</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">Python</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">Python - Pandas</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">Power BI</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">Finance</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">Instructions</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">Telecommunications</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">Excel</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">Retail</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">Power bi</span> <span style="display:inline-block; background-color:#0A66C2; color:white; padding:6px 10px; margin:4px; border-radius:6px; font-size:13px; font-weight:600;">Sales</span>
+
+  <img src="https://img.shields.io/badge/Data%20Analytics-F2C811?style=for-the-badge&logoColor=white" />
+   
+  <img src="https://img.shields.io/badge/ETL-025E8C?style=for-the-badge&logoColor=white" />
+   
+  <img src="https://img.shields.io/badge/Data%20Science-3776AB?style=for-the-badge&logoColor=white" />
+   
+  <img src="https://img.shields.io/badge/Reporting-217346?style=for-the-badge&logoColor=white" />
+   
+  <img src="https://img.shields.io/badge/Data%20Warehousing-FF7A00?style=for-the-badge&logoColor=white" />
+   
+  <img src="https://img.shields.io/badge/Case%20Study-00A6A6?style=for-the-badge&logoColor=white" />
+   
+  <img src="https://img.shields.io/badge/Machine%20Learning-6A5ACD?style=for-the-badge&logoColor=white" />
+   
+  <img src="https://img.shields.io/badge/Demand%20Forecasting-D83B01?style=for-the-badge&logoColor=white" />
+   
+  <img src="https://img.shields.io/badge/AI%20Sales%20Forecasting-F2C811?style=for-the-badge&logoColor=white" />
+   
+  <img src="https://img.shields.io/badge/PowerBI-025E8C?style=for-the-badge&logoColor=white" />
+   
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=white" />
+   
+  <img src="https://img.shields.io/badge/Python%20-%20Pandas-217346?style=for-the-badge&logoColor=white" />
+   
+  <img src="https://img.shields.io/badge/Power%20BI-FF7A00?style=for-the-badge&logoColor=white" />
+   
+  <img src="https://img.shields.io/badge/Finance-00A6A6?style=for-the-badge&logoColor=white" />
+   
+  <img src="https://img.shields.io/badge/Instructions-6A5ACD?style=for-the-badge&logoColor=white" />
+   
+  <img src="https://img.shields.io/badge/Telecommunications-D83B01?style=for-the-badge&logoColor=white" />
+   
+  <img src="https://img.shields.io/badge/Excel-F2C811?style=for-the-badge&logoColor=white" />
+   
+  <img src="https://img.shields.io/badge/Retail-025E8C?style=for-the-badge&logoColor=white" />
+   
+  <img src="https://img.shields.io/badge/Power%20bi-3776AB?style=for-the-badge&logoColor=white" />
+   
+  <img src="https://img.shields.io/badge/Sales-217346?style=for-the-badge&logoColor=white" />
+  
 
 ---
 
