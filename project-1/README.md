@@ -6,21 +6,21 @@ This project turns raw Vodafone telecom data into actionable business intelligen
 
 ## Technologies
 - Data Analytics
-- PowerBI
 - ETL
-- Python
 - Data Science
 - Reporting
 - Data Warehousing
-- Telecommunications
 - Case Study
+- Machine Learning
+- Demand Forecasting
+- AI Sales Forecasting
+- PowerBI
+- Python
 - Python - Pandas
 - Power BI
 - Finance
 - Instructions
-- Machine Learning
-- Demand Forecasting
-- AI Sales Forecasting
+- Telecommunications
 
 ## Project Image
 ![Project Image](https://d2eiog5yno1qk7.cloudfront.net/StressTest_2.gif)

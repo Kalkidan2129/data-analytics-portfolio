@@ -15,21 +15,53 @@ This portfolio showcases selected data analytics and business intelligence proje
 ## Projects
 
 
-### 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
+<table>
+<tr>
+<td width="40%">
 
-![Project Preview](https://d2eiog5yno1qk7.cloudfront.net/StressTest_2.gif)
+<img src="https://d2eiog5yno1qk7.cloudfront.net/StressTest_2.gif" width="100%">
+
+</td>
+
+<td width="60%">
+
+## 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
 What if telecom leaders could predict revenue shifts before they happen?
 This project turns raw Vodafone telecom data into actionable business intelligence. By transforming and enr...
 
-[View Full Project](./project-1/README.md)
+<br><br>
+
+<a href="./project-1/README.md">View Full Project →</a>
+
+</td>
+</tr>
+</table>
+
+<br>
 
 
-### 2. Walmart Store Sales
+<table>
+<tr>
+<td width="40%">
 
-![Project Preview](https://app.colaberry.com/uploads/ProjectRequest/182/Walmart_es.gif)
+<img src="https://app.colaberry.com/uploads/ProjectRequest/182/Walmart_es.gif" width="100%">
+
+</td>
+
+<td width="60%">
+
+## 2. Walmart Store Sales
 
 This project dashboard assess year over year sales conducted among 45 random Walmart Stores in the US between Feb 2010  and Oct 2012. Although this was a dawn era of coming out of ...
 
-[View Full Project](./project-2/README.md)
+<br><br>
+
+<a href="./project-2/README.md">View Full Project →</a>
+
+</td>
+</tr>
+</table>
+
+<br>
 
