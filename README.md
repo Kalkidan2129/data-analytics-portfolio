@@ -1,4 +1,4 @@
-# Data Analytics Portfolio
+# AI & Data Analytics Portfolio
 
 ## Skills & Tools
 
@@ -8,7 +8,7 @@
 
 ## About
 
-This portfolio showcases selected data analytics and business intelligence projects generated from Colaberry project work.
+This portfolio highlights 2 data analytics and business intelligence projects, focusing on Data Analytics, ETL, Data Science, Reporting, Data Warehousing. It demonstrates practical experience in transforming project work into clear, structured, and recruiter-friendly analytics stories.
 
 ---
 
