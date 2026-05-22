@@ -1,10 +1,20 @@
+
 # Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-## Overview
-What if telecom leaders could predict revenue shifts before they happen?
-This project turns raw Vodafone telecom data into actionable business intelligence. By transforming and enriching the dataset using NexusMax, Python, and Microsoft Fabric, it uncovers hidden patterns in revenue, churn, and customer behavior. The result is a unified, ML-ready data foundation that enables smarter forecasting, sharper performance tracking, and confident, data-driven decision-making for finance and strategy teams.
+## Project Overview
 
-## Technologies
+This project focuses on revenue forecasting and performance analysis of vodafone qatar (2021–2023) to deliver business insights and analytics solutions.
+
+---
+
+## Business Problem
+
+Organizations require data-driven insights to improve operational performance, identify trends, and support strategic decision-making. This project analyzes relevant datasets and transforms them into actionable business intelligence outputs.
+
+---
+
+## Tools & Technologies
+
 - Data Analytics
 - ETL
 - Data Science
@@ -22,9 +32,31 @@ This project turns raw Vodafone telecom data into actionable business intelligen
 - Instructions
 - Telecommunications
 
-## Project Image
-![Project Image](https://d2eiog5yno1qk7.cloudfront.net/StressTest_2.gif)
+---
 
-## Resources
-- [Step By Step Instructions](#/network/1659/projectsteps)
-- [View Tasks](https://3.basecamp.com/3945211/buckets/24864171/todolists/9191018964)
+## Key Insights
+
+- Identified meaningful business trends and patterns
+- Built structured analytics workflows
+- Supported data-driven decision-making
+- Generated business intelligence outputs and reporting insights
+
+---
+
+## Project Preview
+
+![Project Preview](https://d2eiog5yno1qk7.cloudfront.net/StressTest_2.gif)
+
+---
+
+## Additional Resources
+
+- [Step-by-Step Instructions](#/network/1659/projectsteps)
+
+- [Project Tasks Board](https://3.basecamp.com/3945211/buckets/24864171/todolists/9191018964)
+
+---
+
+## Portfolio Navigation
+
+[← Back to Portfolio Home](../README.md)

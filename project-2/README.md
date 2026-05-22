@@ -1,9 +1,20 @@
+
 # Walmart Store Sales
 
-## Overview
-This project dashboard assess year over year sales conducted among 45 random Walmart Stores in the US between Feb 2010  and Oct 2012. Although this was a dawn era of coming out of  the great recession of 2008, these Walmart Stores have faced an impact in sales like any discount or department stores.
+## Project Overview
 
-## Technologies
+This project focuses on walmart store sales to deliver business insights and analytics solutions.
+
+---
+
+## Business Problem
+
+Organizations require data-driven insights to improve operational performance, identify trends, and support strategic decision-making. This project analyzes relevant datasets and transforms them into actionable business intelligence outputs.
+
+---
+
+## Tools & Technologies
+
 - Data Analytics
 - PowerBI
 - Excel
@@ -12,9 +23,31 @@ This project dashboard assess year over year sales conducted among 45 random Wal
 - Power bi
 - Sales
 
-## Project Image
-![Project Image](https://app.colaberry.com/uploads/ProjectRequest/182/Walmart_es.gif)
+---
 
-## Resources
-- [Step By Step Instructions](#/network/960/projectsteps)
-- [View Tasks]()
+## Key Insights
+
+- Identified meaningful business trends and patterns
+- Built structured analytics workflows
+- Supported data-driven decision-making
+- Generated business intelligence outputs and reporting insights
+
+---
+
+## Project Preview
+
+![Project Preview](https://app.colaberry.com/uploads/ProjectRequest/182/Walmart_es.gif)
+
+---
+
+## Additional Resources
+
+- [Step-by-Step Instructions](#/network/960/projectsteps)
+
+
+
+---
+
+## Portfolio Navigation
+
+[← Back to Portfolio Home](../README.md)
