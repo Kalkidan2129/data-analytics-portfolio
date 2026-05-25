@@ -1,56 +1,76 @@
 
 # Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-## Project Overview
+![Project Preview](./screenshots/preview.png)
 
-What if telecom leaders could predict revenue shifts before they happen?
-This project turns raw Vodafone telecom data into actionable business intelligence. By transforming and enriching the dataset using NexusMax, Python, and Microsoft Fabric, it uncovers hidden patterns in revenue, churn, and customer behavior. The result is a unified, ML-ready data foundation that enables smarter forecasting, sharper performance tracking, and confident, data-driven decision-making for finance and strategy teams.
+## Project Summary
+
+This project analyzes Vodafone Qatar performance data to support revenue forecasting, churn analysis, KPI monitoring, and business reporting.
 
 ---
 
 ## Business Problem
 
-This project uses available project information to explore revenue forecasting and performance analysis of vodafone qatar (2021–2023), identify important patterns, and communicate business insights using Data Analytics, ETL, Data Science, Reporting, Data Warehousing.
+Telecom leaders need reliable visibility into revenue trends, churn behavior, subscriber activity, and network performance so they can make better forecasting and strategy decisions.
+
+---
+
+## Objective
+
+- Analyze telecom revenue, churn, subscriber, and network performance trends.
+- Prepare data for forecasting and KPI-based business analysis.
+- Create a clear analytics story for finance and strategy decision-making.
 
 ---
 
 ## Tools & Technologies
 
-- Data Analytics
-- ETL
-- Data Science
-- Reporting
-- Data Warehousing
-- Machine Learning
-- Demand Forecasting
-- AI Sales Forecasting
 - Power BI
 - Python
 - Pandas
-- Finance
-- Telecommunications
+- Microsoft Fabric
+- ETL
+- Data Forecasting
+
+---
+
+## Project Workflow
+
+- Defined the telecom forecasting and KPI monitoring objectives.
+- Reviewed Vodafone Qatar revenue, subscriber, churn, and network performance data.
+- Prepared and transformed project data for analytics and forecasting workflows.
+- Built Power BI dashboards to monitor telecom business performance trends.
+- Summarized findings into business-focused insights and reporting outputs.
 
 ---
 
 ## Key Insights
 
-- Explored project context related to revenue forecasting and performance analysis of vodafone qatar (2021–2023)
-- Used Data Analytics, ETL, Data Science, Reporting, Data Warehousing to support analysis and reporting
-- Transformed project information into a structured portfolio-ready case study
+- Analyzed telecom revenue, subscriber, churn, and network performance metrics.
+- Built analytics dashboards to help stakeholders monitor KPI performance and revenue trends.
+- Prepared and transformed project data for forecasting and business analysis workflows.
+- Connected operational metrics to business-focused visual reporting for decision-making.
 
 ---
 
-## Project Preview
+## Final Dashboard / Project Preview
 
-![Project Preview](https://d2eiog5yno1qk7.cloudfront.net/StressTest_2.gif)
+![Final Dashboard](./screenshots/preview.png)
 
 ---
 
-## Additional Resources
+## Business Impact
 
-- [Step-by-Step Instructions](#/network/1659/projectsteps)
+- Improves visibility into telecom revenue, churn, and subscriber performance.
+- Supports forecasting and strategic planning for finance and leadership teams.
+- Helps decision-makers monitor business health through KPI-focused reporting.
 
-- [Project Tasks Board](https://3.basecamp.com/3945211/buckets/24864171/todolists/9191018964)
+---
+
+## Files Included
+
+- README.md
+- project-data.json
 
 ---
 
