@@ -1,4 +1,14 @@
-# AI & Data Analytics Portfolio
+# Hi, I'm kalkidan Bezabeh 👋
+
+## power bi developer
+
+## Contact
+
+
+ | [GitHub](https://github.com/kalkidan2129)
+ | [Email](mailto:kalkidankin@gmail.com)
+
+---
 
 ## Skills & Tools
 
