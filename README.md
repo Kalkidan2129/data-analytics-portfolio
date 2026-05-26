@@ -1,4 +1,4 @@
-# Hi, I'm Kalkidan Bezabeh 👋
+# Hi, I'm kalkidan bezabeh 👋
 
 ## Power BI Developer
 
@@ -74,4 +74,4 @@ Retail sales analytics project using Power BI to analyze store performance, sale
 
 
  | [GitHub](https://github.com/kalkidan2129)
- | [Email](mailto:kalkidankin@gmail.com)
+
