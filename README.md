@@ -30,7 +30,7 @@ This portfolio showcases 2 data analytics and business intelligence projects foc
 
 ## 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-Telecom analytics project focused on revenue forecasting, churn analysis, KPI monitoring, and business reporting.
+Business intelligence and analytics project focused on reporting, dashboards, and data-driven decision-making.
 
 <br><br>
 
