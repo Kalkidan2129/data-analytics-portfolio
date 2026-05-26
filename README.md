@@ -1,4 +1,4 @@
-# Hi, I'm kalkidan bezabeh 👋
+# Hi, I'm Kalkidan Bezabeh 👋
 
 ## Power BI Developer
 
