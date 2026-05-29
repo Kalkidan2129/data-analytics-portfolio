@@ -1,4 +1,4 @@
-# Hi, I'm Kalkidan Bezabeh 👋
+# Hi, I'm Kalkidan Kindie 👋
 
 ## Power BI Developer
 
@@ -11,7 +11,7 @@
 
 ## About
 
-I leverage data analytics and visualization to transform complex datasets into actionable insights, as demonstrated through projects in telecommunications and retail. For Vodafone Qatar, I built an ML-ready data foundation using Python and Microsoft Fabric to analyze revenue trends, churn patterns, and customer behavior, enabling finance teams to make data-driven forecasts. In retail, I developed a Power BI dashboard to track Walmart store sales during a challenging economic period, uncovering key performance indicators that inform strategic decision-making. These experiences have honed my ability to extract meaningful narratives from data, combining technical skills in ETL, Python, and Power BI with a focus on business impact.
+I am a data analyst dedicated to transforming raw datasets into actionable business intelligence and strategic insights. I leverage tools like Python, Power BI, and Excel to build robust ETL pipelines and interactive dashboards that drive informed decision-making across retail and telecommunications contexts. My focus is on bridging the gap between complex data and clear reporting to optimize performance and forecast future trends.
 
 ---
 

@@ -5,21 +5,21 @@
 
 ## Project Summary
 
-This project analyzes year-over-year sales data for 45 Walmart stores in the US from 2010 to 2012, focusing on post-recession trends. It leverages Power BI to visualize sales patterns and assess economic impacts. The dashboard includes metrics like total sales, average sales, and year-over-year changes.
+This project developed a Power BI dashboard to analyze year-over-year sales trends of 45 Walmart stores from 2010-2012, highlighting post-2008 recession impacts. The dashboard visualizes sales data alongside external factors like holidays and unemployment rates.
 
 ---
 
 ## Business Problem
 
-The project addresses the challenge of understanding how Walmart stores' sales were affected by the 2008 recession and subsequent economic recovery. It aims to identify external factors influencing sales and provide actionable insights for retail decision-making.
+The project addresses the need to understand how the 2008 recession affected retail sales performance and identify patterns in store-level sales fluctuations.
 
 ---
 
 ## Objective
 
-- Import and structure sales data from CSV files into Power BI for analysis.
-- Develop a calendar table to enable time-based sales comparisons.
-- Create DAX measures to calculate key metrics like total sales and year-over-year changes.
+- Develop a Power BI dashboard to visualize YoY sales data across multiple stores.
+- Analyze sales trends in relation to external economic factors like the recession.
+- Create actionable insights for retail sales strategy based on historical data.
 
 ---
 
@@ -27,30 +27,28 @@ The project addresses the challenge of understanding how Walmart stores' sales w
 
 - Power BI
 - Excel
-- Power BI Desktop
-- DAX
-- Data Visualization
-- Retail Analytics
-- Sales Metrics
+- Data Analytics
+- Retail
+- Sales
 
 ---
 
 ## Project Workflow
 
-- Import and clean sales data from CSV files into Power BI.
-- Build a calendar table to enable temporal analysis of sales data.
-- Establish relationships between sales data and calendar tables.
-- Create conditional columns to categorize data (e.g., holidays, unemployment).
-- Develop DAX measures to calculate and visualize key sales metrics.
+- Import and clean sales data into Power BI Desktop.
+- Create calendar and date tables for temporal analysis.
+- Establish relationships between sales and calendar data.
+- Develop DAX measures for sales metrics and YoY comparisons.
+- Design and finalize the dashboard with visual elements and logos.
 
 ---
 
 ## Key Insights
 
-- Power BI enables efficient integration and analysis of large datasets through CSV imports.
-- Calendar tables are critical for time-based analysis in sales performance.
-- Conditional columns help segment data by external factors like holidays and unemployment.
-- DAX measures allow dynamic calculation of metrics such as average sales and YoY growth.
+- Sales declined during the recession period compared to pre-2008 levels.
+- Holiday weeks and unemployment rates correlated with sales fluctuations.
+- Monthly sales varied significantly across different stores.
+- The dashboard effectively visualizes YoY trends and external factors.
 
 ---
 
@@ -62,9 +60,9 @@ The project addresses the challenge of understanding how Walmart stores' sales w
 
 ## Business Impact
 
-- Identifies sales trends during economic recovery to inform inventory and marketing strategies.
-- Provides actionable insights for optimizing store performance based on external economic factors.
-- Enhances data-driven decision-making for retail operations through visualized analytics.
+- Enables data-driven decisions for retail sales strategies.
+- Identifies external factors (recession, holidays) affecting sales.
+- Provides a template for analyzing store performance over time.
 
 ---
 
