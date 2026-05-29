@@ -5,44 +5,51 @@
 
 ## Project Summary
 
-The project enhances revenue forecasting accuracy using data analytics to optimize financial planning for Vodafone Qatar.
+This project analyzes Vodafone Qatar performance data to support revenue forecasting, churn analysis, KPI monitoring, and business reporting.
 
 ---
 
 ## Business Problem
 
-Improving revenue prediction reliability to support strategic financial decisions.
+Telecom leaders need reliable visibility into revenue trends, churn behavior, subscriber activity, and network performance so they can make better forecasting and strategy decisions.
 
 ---
 
 ## Objective
 
-- Enhance forecasting precision
-- Identify key performance drivers
-- Support budget allocation
+- Analyze telecom revenue, churn, subscriber, and network performance trends.
+- Prepare data for forecasting and KPI-based business analysis.
+- Create a clear analytics story for finance and strategy decision-making.
 
 ---
 
 ## Tools & Technologies
 
-- NexusMax
+- Power BI
 - Python
+- Pandas
 - Microsoft Fabric
+- ETL
+- Data Forecasting
 
 ---
 
 ## Project Workflow
 
-- Data Preparation
-- Model Development
-- Visualization
+- Defined the telecom forecasting and KPI monitoring objectives.
+- Reviewed Vodafone Qatar revenue, subscriber, churn, and network performance data.
+- Prepared and transformed project data for analytics and forecasting workflows.
+- Built Power BI dashboards to monitor telecom business performance trends.
+- Summarized findings into business-focused insights and reporting outputs.
 
 ---
 
 ## Key Insights
 
-- High churn rates
-- ARPU trends
+- Analyzed telecom revenue, subscriber, churn, and network performance metrics.
+- Built analytics dashboards to help stakeholders monitor KPI performance and revenue trends.
+- Prepared and transformed project data for forecasting and business analysis workflows.
+- Connected operational metrics to business-focused visual reporting for decision-making.
 
 ---
 
@@ -54,8 +61,9 @@ Improving revenue prediction reliability to support strategic financial decision
 
 ## Business Impact
 
-- Increased efficiency
-- Reduced operational risks
+- Improves visibility into telecom revenue, churn, and subscriber performance.
+- Supports forecasting and strategic planning for finance and leadership teams.
+- Helps decision-makers monitor business health through KPI-focused reporting.
 
 ---
 
@@ -63,6 +71,12 @@ Improving revenue prediction reliability to support strategic financial decision
 
 - README.md
 - project-data.json
+
+---
+
+## Generation Method
+
+This project page was generated using: **rule-based fallback generation**
 
 ---
 

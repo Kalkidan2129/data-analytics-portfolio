@@ -1,4 +1,4 @@
-# Hi, I'm Kalkidan Bezabeh 👋
+# Hi, I'm kalkidan bezabeh 👋
 
 ## Power BI Developer
 
@@ -11,7 +11,7 @@
 
 ## About
 
-I am a dataanalyst focused on transforming raw data into actionable insights through advanced analytics and visualization. I leverage Python, Power BI, and ETL processes to clean, enrich, and model data, enabling demand forecasting, sales analysis, and performance tracking across industries. My work emphasizes turning complex datasets into clear, data-driven decisions that support strategic planning and operational efficiency.
+I specialize in transforming raw data into actionable business intelligence through advanced analytics, ETL processes, and interactive dashboards. My work leverages tools like Python, Power BI, and Microsoft Fabric to uncover insights in revenue forecasting, customer behavior, and sales performance across industries such as telecommunications and retail. I focus on building scalable data solutions that empower strategic decision-making and drive measurable business outcomes.
 
 ---
 
@@ -30,7 +30,7 @@ I am a dataanalyst focused on transforming raw data into actionable insights thr
 
 ## 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-Telecom analytics project focused on revenue forecasting, churn analysis, KPI monitoring, and business reporting.
+Developed an end-to-end analytics pipeline using Python, Microsoft Fabric, and Power BI to transform raw telecom data into actionable business intelligence for Vodafone Qatar. The project leverages ML-ready data foundations and supervised regression to enable accurate revenue forecasting and churn analysis, providing finance and strategy teams with data-driven insights to optimize budget allocation and customer retention.
 
 <br><br>
 
@@ -55,7 +55,7 @@ Telecom analytics project focused on revenue forecasting, churn analysis, KPI mo
 
 ## 2. Walmart Store Sales
 
-Retail sales analytics project using Power BI to analyze store performance, sales trends, and business insights.
+This Power BI dashboard analyzes year-over-year sales performance across 45 Walmart stores to identify trends in retail revenue, holiday impacts, and economic indicators like CPI and unemployment. The project utilizes advanced DAX measures and data modeling to provide actionable business insights into sales fluctuations during a post-recession period.
 
 <br><br>
 
