@@ -5,51 +5,54 @@
 
 ## Project Summary
 
-This project analyzes Vodafone Qatar performance data to support revenue forecasting, churn analysis, KPI monitoring, and business reporting.
+This project leverages advanced data transformation and machine learning to turn Vodafone Qatar's telecom data into actionable business intelligence, enabling more accurate forecasting and strategic decision-making.
 
 ---
 
 ## Business Problem
 
-Telecom leaders need reliable visibility into revenue trends, churn behavior, subscriber activity, and network performance so they can make better forecasting and strategy decisions.
+Telecom revenue performance is inconsistent across regions and customer segments, making it difficult for finance and strategy teams to anticipate shifts and allocate resources effectively.
 
 ---
 
 ## Objective
 
-- Analyze telecom revenue, churn, subscriber, and network performance trends.
-- Prepare data for forecasting and KPI-based business analysis.
-- Create a clear analytics story for finance and strategy decision-making.
+- Enhance revenue forecasting accuracy using historical telecom data
+- Identify key drivers of churn and customer behavior
+- Provide a unified, ML-ready dataset for proactive decision-making
 
 ---
 
 ## Tools & Technologies
 
-- Power BI
+- NexusMax
 - Python
-- Pandas
 - Microsoft Fabric
+- Power BI
+- Pandas
 - ETL
-- Data Forecasting
+- Data Warehousing
+- Visualization
 
 ---
 
 ## Project Workflow
 
-- Defined the telecom forecasting and KPI monitoring objectives.
-- Reviewed Vodafone Qatar revenue, subscriber, churn, and network performance data.
-- Prepared and transformed project data for analytics and forecasting workflows.
-- Built Power BI dashboards to monitor telecom business performance trends.
-- Summarized findings into business-focused insights and reporting outputs.
+- Data cleaning and standardization of raw telecom datasets
+- Feature engineering and enrichment using NexusMax and Python
+- Data integration and transformation into a centralized database
+- Model development and training for revenue forecasting
+- Creation of interactive dashboards with Power BI for real-time insights
+- Validation and reporting of key performance indicators
 
 ---
 
 ## Key Insights
 
-- Analyzed telecom revenue, subscriber, churn, and network performance metrics.
-- Built analytics dashboards to help stakeholders monitor KPI performance and revenue trends.
-- Prepared and transformed project data for forecasting and business analysis workflows.
-- Connected operational metrics to business-focused visual reporting for decision-making.
+- The dataset reveals significant regional variations in revenue and churn patterns.
+- High network availability correlates strongly with stable revenue performance.
+- Customer segments such as Mobile Postpaid show elevated churn rates.
+- Forecasting accuracy improves with the inclusion of time-based trends and segmentation analysis
 
 ---
 
@@ -61,9 +64,9 @@ Telecom leaders need reliable visibility into revenue trends, churn behavior, su
 
 ## Business Impact
 
-- Improves visibility into telecom revenue, churn, and subscriber performance.
-- Supports forecasting and strategic planning for finance and leadership teams.
-- Helps decision-makers monitor business health through KPI-focused reporting.
+- Enables proactive revenue planning and risk mitigation
+- Supports data-driven budget allocation and investment decisions
+- Improves customer retention strategies by targeting high-churn segments
 
 ---
 
