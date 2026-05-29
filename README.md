@@ -1,4 +1,4 @@
-# Hi, I'm Kalkidan Kindie 👋
+# Hi, I'm Kalkidan Bezabeh 👋
 
 ## Power BI Developer
 
@@ -11,7 +11,7 @@
 
 ## About
 
-I am a data analyst dedicated to transforming raw datasets into actionable business intelligence and strategic insights. I leverage tools like Python, Power BI, and Excel to build robust ETL pipelines and interactive dashboards that drive informed decision-making across retail and telecommunications contexts. My focus is on bridging the gap between complex data and clear reporting to optimize performance and forecast future trends.
+I am a dataanalyst focused on transforming raw data into actionable insights through advanced analytics and visualization. I leverage Python, Power BI, and ETL processes to clean, enrich, and model data, enabling demand forecasting, sales analysis, and performance tracking across industries. My work emphasizes turning complex datasets into clear, data-driven decisions that support strategic planning and operational efficiency.
 
 ---
 
@@ -72,6 +72,4 @@ Retail sales analytics project using Power BI to analyze store performance, sale
 
 ## Contact
 
-
- | [GitHub](https://github.com/kalkidan2129)
-
+[GitHub](https://github.com/kalkidan2129)

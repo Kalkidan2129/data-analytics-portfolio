@@ -5,50 +5,51 @@
 
 ## Project Summary
 
-This project developed a Power BI dashboard to analyze year-over-year sales trends of 45 Walmart stores from 2010-2012, highlighting post-2008 recession impacts. The dashboard visualizes sales data alongside external factors like holidays and unemployment rates.
+This project analyzes year-over-year sales trends across 45 Walmart stores in the US from February 2010 to October 2012, focusing on post-recession performance. It leverages Power BI to create a dashboard that evaluates sales patterns, holiday impacts, and economic factors like unemployment rates. The analysis aims to provide actionable insights for retail strategy during economic recovery periods.
 
 ---
 
 ## Business Problem
 
-The project addresses the need to understand how the 2008 recession affected retail sales performance and identify patterns in store-level sales fluctuations.
+During the post-2008 recession recovery, Walmart stores faced sales challenges similar to other retail sectors. Understanding how macroeconomic factors and seasonal events influenced sales performance was critical for strategic planning and resource allocation. The project addresses the need for data-driven insights to navigate economic uncertainties and optimize store-level operations.
 
 ---
 
 ## Objective
 
-- Develop a Power BI dashboard to visualize YoY sales data across multiple stores.
-- Analyze sales trends in relation to external economic factors like the recession.
-- Create actionable insights for retail sales strategy based on historical data.
+- Analyze year-over-year sales trends to identify performance patterns during economic recovery.
+- Build a Power BI dashboard to visualize sales data and key influencing factors.
+- Evaluate the impact of holidays and unemployment rates on weekly sales performance.
 
 ---
 
 ## Tools & Technologies
 
-- Power BI
+- Power BI Desktop
+- DAX (Data Analysis Expressions)
+- Power Query Editor
+- CSV Data Files
+- Power BI Cloud
 - Excel
-- Data Analytics
-- Retail
-- Sales
 
 ---
 
 ## Project Workflow
 
-- Import and clean sales data into Power BI Desktop.
-- Create calendar and date tables for temporal analysis.
-- Establish relationships between sales and calendar data.
-- Develop DAX measures for sales metrics and YoY comparisons.
-- Design and finalize the dashboard with visual elements and logos.
+- Import and preprocess Walmart sales data from CSV files into Power BI Desktop.
+- Create and configure date tables and relationships to enable time-based analysis.
+- Develop conditional columns for holiday flags and unemployment rate groupings.
+- Design DAX measures to calculate total sales, YoY changes, and average metrics.
+- Deploy the final dashboard to Colaberry Power BI Cloud for stakeholder access.
 
 ---
 
 ## Key Insights
 
-- Sales declined during the recession period compared to pre-2008 levels.
-- Holiday weeks and unemployment rates correlated with sales fluctuations.
-- Monthly sales varied significantly across different stores.
-- The dashboard effectively visualizes YoY trends and external factors.
+- Year-over-year sales trends revealed variability in performance across stores during the recovery period.
+- Holiday weeks significantly influenced weekly sales, with conditional flags enabling targeted analysis.
+- Unemployment rate groupings provided context for correlating economic conditions with sales outcomes.
+- Custom sorting and date relationships improved dashboard usability for time-series analysis.
 
 ---
 
@@ -60,9 +61,9 @@ The project addresses the need to understand how the 2008 recession affected ret
 
 ## Business Impact
 
-- Enables data-driven decisions for retail sales strategies.
-- Identifies external factors (recession, holidays) affecting sales.
-- Provides a template for analyzing store performance over time.
+- Enabled data-driven decision-making for inventory and marketing strategies during economic transitions.
+- Highlighted the importance of seasonal and economic factors in retail performance optimization.
+- Provided a scalable dashboard framework for ongoing sales monitoring and analysis.
 
 ---
 
