@@ -11,7 +11,7 @@
 
 ## About
 
-I specialize in transforming raw data into actionable business intelligence through advanced analytics, ETL processes, and interactive dashboards. My work leverages tools like Python, Power BI, and Microsoft Fabric to uncover insights in revenue forecasting, customer behavior, and sales performance across industries such as telecommunications and retail. I focus on building scalable data solutions that empower strategic decision-making and drive measurable business outcomes.
+I am a data analyst who specializes in turning raw, multi‑source datasets into clear, actionable business intelligence through end‑to‑end ETL pipelines, statistical modeling, and interactive visualizations. My toolkit includes Python (Pandas), SQL‑based data warehousing, Microsoft Fabric, and Power BI, enabling me to build ML‑ready data foundations, forecast revenue and sales trends, and deliver concise dashboards that support strategic decision‑making across finance, retail, and telecommunications contexts. I focus on extracting hidden patterns, automating reporting, and presenting insights that drive measurable performance improvements.
 
 ---
 
@@ -30,7 +30,7 @@ I specialize in transforming raw data into actionable business intelligence thro
 
 ## 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-Developed an end-to-end analytics pipeline using Python, Microsoft Fabric, and Power BI to transform raw telecom data into actionable business intelligence for Vodafone Qatar. The project leverages ML-ready data foundations and supervised regression to enable accurate revenue forecasting and churn analysis, providing finance and strategy teams with data-driven insights to optimize budget allocation and customer retention.
+Transformedraw telecom data into actionable business intelligence through revenue forecasting and performance analysis, enabling data-driven decisions for Vodafone Qatar's finance and strategy teams.
 
 <br><br>
 
@@ -55,7 +55,7 @@ Developed an end-to-end analytics pipeline using Python, Microsoft Fabric, and P
 
 ## 2. Walmart Store Sales
 
-This Power BI dashboard analyzes year-over-year sales performance across 45 Walmart stores to identify trends in retail revenue, holiday impacts, and economic indicators like CPI and unemployment. The project utilizes advanced DAX measures and data modeling to provide actionable business insights into sales fluctuations during a post-recession period.
+Analyzed year‑over‑year sales for 45 Walmart stores (Feb 2010‑Oct 2012) using Power BI, delivering interactive dashboards that reveal seasonal trends, CPI impact, and unemployment correlations for retail strategy.
 
 <br><br>
 
@@ -72,4 +72,4 @@ This Power BI dashboard analyzes year-over-year sales performance across 45 Walm
 
 ## Contact
 
-[GitHub](https://github.com/kalkidan2129)
+[GitHub](https://github.com/kalkidan2129) | [Email](mailto:kalkidankin@gmail.com)

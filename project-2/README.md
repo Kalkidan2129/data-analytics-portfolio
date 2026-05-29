@@ -5,52 +5,51 @@
 
 ## Project Summary
 
-This project analyzes year-over-year sales performance across 45 Walmart stores in the US from February 2010 to October 2012, focusing on post-recession trends. Using Power BI and Excel, it evaluates sales patterns, holiday impacts, and economic factors like unemployment rates to provide actionable insights for retail strategy. The final dashboard enables stakeholders to visualize and interpret sales dynamics during a critical economic recovery period.
+The project delivers a Power BI dashboard that analyzes year‑over‑year sales performance across 45 randomly selected U.S. Walmart stores from February 2010 to October 2012, a period following the 2008 recession. It incorporates conditional columns for holiday and unemployment factors and uses a properly constructed date table to enable accurate time‑intelligence calculations.
 
 ---
 
 ## Business Problem
 
-Walmart stores faced sales challenges during the post-2008 recession recovery period, requiring analysis of historical data to identify trends and external factors affecting performance. The business needed to understand how economic conditions and seasonal variables influenced weekly sales to optimize inventory and marketing strategies.
+Walmart stores experienced sales volatility during the post‑recession era, making it difficult to discern underlying trends and seasonal patterns. Understanding these dynamics is essential for optimizing inventory, staffing, and promotional strategies.
 
 ---
 
 ## Objective
 
-- Analyze year-over-year sales trends to identify recovery patterns post-recession
-- Evaluate the impact of holidays and unemployment rates on weekly sales performance
-- Develop an interactive Power BI dashboard for stakeholder decision-making
+- Analyze year‑over‑year sales trends across 45 Walmart stores
+- Identify seasonal and external factor influences on sales performance
+- Create an interactive Power BI dashboard for stakeholder insights
 
 ---
 
 ## Tools & Technologies
 
-- Power BI Desktop
-- Power BI Cloud
+- Power BI
 - Excel
-- DAX (Data Analysis Expressions)
-- CSV Data Files
-- Power Query Editor
+- Data Analytics
+- Retail
+- Power bi
+- Sales
 
 ---
 
 ## Project Workflow
 
-- Import and preprocess Walmart sales CSV data into Power BI Desktop
-- Create calendar and refresh date tables using DAX for time-based analysis
-- Establish relationships between sales data and date tables for accurate modeling
-- Generate conditional columns for holiday flags and unemployment rate categories
-- Build DAX measures for total sales, YoY comparisons, and average metrics
-- Design and deploy interactive dashboard with branded visuals in Power BI Cloud
+- Deploy the completed project to Power BI Cloud
+- Import the Walmart Sales CSV file into Power BI Desktop
+- Create and refresh calendar and date tables for time‑intelligence
+- Establish relationships and add conditional columns for holidays and unemployment
+- Develop DAX measures and finalize dashboard visual elements
 
 ---
 
 ## Key Insights
 
-- Year-over-year sales analysis revealed recovery patterns during the post-recession period
-- Holiday weeks significantly influenced weekly sales performance across stores
-- Unemployment rate categories correlated with sales fluctuations, highlighting economic sensitivity
-- Custom date hierarchies and sorting improved dashboard usability for time-series analysis
+- The dataset covers February 2010 to October 2012, capturing post‑recession market conditions
+- Analysis is performed on 45 randomly selected U.S. store locations, enabling comparative insights
+- Conditional columns were used to flag holiday weeks and incorporate unemployment rate data
+- A properly constructed date table and relationships are critical for accurate time‑intelligence calculations
 
 ---
 
@@ -62,9 +61,9 @@ Walmart stores faced sales challenges during the post-2008 recession recovery pe
 
 ## Business Impact
 
-- Enabled data-driven decisions for inventory and marketing strategies during economic uncertainty
-- Provided visibility into external factors (holidays, unemployment) affecting sales performance
-- Streamlined reporting processes through automated Power BI dashboard deployment
+- Enables data‑driven decisions to improve store performance and profitability
+- Facilitates identification of seasonal trends and external economic impacts on sales
+- Provides a reusable Power BI dashboard template for ongoing retail analytics
 
 ---
 

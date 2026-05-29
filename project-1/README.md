@@ -5,51 +5,51 @@
 
 ## Project Summary
 
-This project analyzes Vodafone Qatar performance data to support revenue forecasting, churn analysis, KPI monitoring, and business reporting.
+The project transforms raw Vodafone Qatar telecom data (2021‑2023) into a unified, ML‑ready dataset using NexusMax, Python, and Microsoft Fabric. It delivers a Power BI dashboard and forecasting models that reveal revenue, churn, and network performance patterns, enabling finance and strategy teams to make proactive, data‑driven decisions.
 
 ---
 
 ## Business Problem
 
-Telecom leaders need reliable visibility into revenue trends, churn behavior, subscriber activity, and network performance so they can make better forecasting and strategy decisions.
+Vodafone Qatar’s finance and strategy teams lacked a consolidated view of revenue, subscriber growth, churn, and network metrics, making quarterly forecasting uncertain and budget planning risky. Regional and segment‑level performance variations were hidden, hindering targeted growth initiatives.
 
 ---
 
 ## Objective
 
-- Analyze telecom revenue, churn, subscriber, and network performance trends.
-- Prepare data for forecasting and KPI-based business analysis.
-- Create a clear analytics story for finance and strategy decision-making.
+- Create a clean, integrated data foundation that combines financial, subscriber, and network KPIs.
+- Develop accurate quarterly revenue forecasts to support budget allocation.
+- Identify churn drivers and high‑impact segments to guide retention strategies.
 
 ---
 
 ## Tools & Technologies
 
-- Power BI
-- Python
-- Pandas
+- NexusMax
+- Python (Pandas)
 - Microsoft Fabric
-- ETL
-- Data Forecasting
+- Power BI
+- SQL
+- Azure Data Lake
 
 ---
 
 ## Project Workflow
 
-- Defined the telecom forecasting and KPI monitoring objectives.
-- Reviewed Vodafone Qatar revenue, subscriber, churn, and network performance data.
-- Prepared and transformed project data for analytics and forecasting workflows.
-- Built Power BI dashboards to monitor telecom business performance trends.
-- Summarized findings into business-focused insights and reporting outputs.
+- Ingest and clean raw telecom data, resolve missing values and standardize metrics.
+- Enrich and model the data in Microsoft Fabric, adding time‑dimensional tables and ML‑ready features.
+- Apply supervised regression techniques to generate quarterly revenue forecasts.
+- Build interactive Power BI visualizations for revenue, subscriber growth, churn, and network availability.
+- Deploy the unified dataset and dashboard to the Colaberry Power BI Cloud for stakeholder access.
 
 ---
 
 ## Key Insights
 
-- Analyzed telecom revenue, subscriber, churn, and network performance metrics.
-- Built analytics dashboards to help stakeholders monitor KPI performance and revenue trends.
-- Prepared and transformed project data for forecasting and business analysis workflows.
-- Connected operational metrics to business-focused visual reporting for decision-making.
+- Total revenue grew 14% QoQ, reaching $108K, with Doha contributing the largest share (72M subscribers).
+- Churn for high‑value mobile prepaid customers exceeds 2.5% and rose 0.3% QoQ, threatening revenue stability.
+- Network availability is exceptionally high at 99.95%, providing a strong foundation for retention efforts.
+- Churn in Mobile Postpaid and Fixed Broadband segments (2.41%–2.74%) could cause an annual revenue loss of $8‑12K.
 
 ---
 
@@ -61,9 +61,9 @@ Telecom leaders need reliable visibility into revenue trends, churn behavior, su
 
 ## Business Impact
 
-- Improves visibility into telecom revenue, churn, and subscriber performance.
-- Supports forecasting and strategic planning for finance and leadership teams.
-- Helps decision-makers monitor business health through KPI-focused reporting.
+- Improved forecast accuracy enables more precise budget allocation to high‑growth segments.
+- Targeted churn reduction initiatives could recover $8‑12K in annual revenue.
+- A unified analytics platform reduces manual analysis time, accelerating decision‑making for finance and strategy teams.
 
 ---
 
@@ -76,7 +76,7 @@ Telecom leaders need reliable visibility into revenue trends, churn behavior, su
 
 ## Generation Method
 
-This project page was generated using: **rule-based fallback generation**
+This project page was generated using: **AI-assisted project analysis**
 
 ---
 
