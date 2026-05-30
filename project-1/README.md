@@ -3,51 +3,51 @@
 
 ## Project Summary
 
-This project transforms Vodafone Qatar’s 2021‑2023 telecom data into a unified, ML‑ready dataset using NexusMax, Python, and Microsoft Fabric. It delivers a Power BI dashboard that visualizes revenue, churn, ARPU, and network performance, enabling finance and strategy teams to forecast quarterly revenue and optimize budget allocation.
+This project analyzes Vodafone Qatar performance data to support revenue forecasting, churn analysis, KPI monitoring, and business reporting.
 
 ---
 
 ## Business Problem
 
-Telecom revenue performance varies across regions and customer segments, yet finance and strategy teams lack a consolidated view to understand growth drivers and revenue risks. Fluctuations in churn and subscriber behavior create uncertainty in forecasting and budget planning.
+Telecom leaders need reliable visibility into revenue trends, churn behavior, subscriber activity, and network performance so they can make better forecasting and strategy decisions.
 
 ---
 
 ## Objective
 
-- Create a clean, standardized dataset covering key KPIs such as revenue, ARPU, churn, and network availability.
-- Build an ML‑ready data foundation to support accurate quarterly revenue forecasting.
-- Deliver an interactive Power BI dashboard for performance tracking and strategic decision‑making.
+- Analyze telecom revenue, churn, subscriber, and network performance trends.
+- Prepare data for forecasting and KPI-based business analysis.
+- Create a clear analytics story for finance and strategy decision-making.
 
 ---
 
 ## Tools & Technologies
 
-- NexusMax
-- Python
-- Microsoft Fabric
 - Power BI
+- Python
 - Pandas
-- Supervised regression models
+- Microsoft Fabric
+- ETL
+- Data Forecasting
 
 ---
 
 ## Project Workflow
 
-- Extract raw telecom data from Kaggle and Vodafone investor presentations.
-- Clean, standardize, and enrich the data using NexusMax and Python scripts.
-- Create a centralized date table and validate key metrics for consistency.
-- Apply supervised regression techniques to forecast quarterly revenue.
-- Publish the unified dataset and dashboard to the Colaberry Power BI Cloud.
+- Defined the telecom forecasting and KPI monitoring objectives.
+- Reviewed Vodafone Qatar revenue, subscriber, churn, and network performance data.
+- Prepared and transformed project data for analytics and forecasting workflows.
+- Built Power BI dashboards to monitor telecom business performance trends.
+- Summarized findings into business-focused insights and reporting outputs.
 
 ---
 
 ## Key Insights
 
-- Total revenue grew 14% QoQ to $108K, driven largely by Doha’s 72M subscribers.
-- High‑value mobile prepaid churn remains above 2.5%, increasing by 0.3% QoQ, impacting revenue stability.
-- ARPU and digital sales penetration trends indicate opportunities for targeted upsell campaigns.
-- Network expansion data, including 5G rollout progress, correlates with regional revenue spikes.
+- Analyzed telecom revenue, subscriber, churn, and network performance metrics.
+- Built analytics dashboards to help stakeholders monitor KPI performance and revenue trends.
+- Prepared and transformed project data for forecasting and business analysis workflows.
+- Connected operational metrics to business-focused visual reporting for decision-making.
 
 ---
 
@@ -59,9 +59,9 @@ Telecom revenue performance varies across regions and customer segments, yet fin
 
 ## Business Impact
 
-- Improved quarterly revenue forecast accuracy supports more confident budget allocation.
-- Enhanced visibility into churn and ARPU enables targeted retention strategies.
-- Unified data foundation reduces time to insight, accelerating strategic planning cycles.
+- Improves visibility into telecom revenue, churn, and subscriber performance.
+- Supports forecasting and strategic planning for finance and leadership teams.
+- Helps decision-makers monitor business health through KPI-focused reporting.
 
 ---
 
@@ -74,7 +74,7 @@ Telecom revenue performance varies across regions and customer segments, yet fin
 
 ## Generation Method
 
-This project page was generated using: **AI-assisted project analysis**
+This project page was generated using: **rule-based fallback generation**
 
 ---
 

@@ -3,50 +3,54 @@
 
 ## Project Summary
 
-Developed an interactive Power BI dashboard to analyze year‑over‑year sales across 45 Walmart stores from February 2010 to October 2012, highlighting post‑recession performance trends. The solution integrates data modeling, custom DAX measures, and visual branding to deliver actionable retail insights.
+Developed an interactive Power BI dashboard to evaluate year‑over‑year sales performance across 45 randomly selected Walmart stores during 2010‑2012, a period of economic recovery post‑recession. The dashboard integrates data modeling, DAX calculations, and visual design to provide actionable insights for retail stakeholders.
 
 ---
 
 ## Business Problem
 
-Walmart’s regional stores needed visibility into how the 2008‑09 recession impacted sales and how recovery unfolded across locations. Stakeholders required a clear, drill‑down view of sales, seasonal effects, and macro‑economic factors such as unemployment rates.
+Retail managers needed a clear, data‑driven view of how sales evolved during the early 2010s to inform inventory, staffing, and promotional strategies amid fluctuating economic conditions.
 
 ---
 
 ## Objective
 
-- Create a unified data model with a calendar table for time‑intelligent analysis.
-- Build conditional columns and DAX measures to capture holiday effects, unemployment groups, and YoY sales performance.
-- Design a polished, branded dashboard that enables stakeholders to explore sales trends by store, month, and year.
+- Import and model Walmart sales data with a robust date/calendar table
+- Create DAX measures for total, monthly, average, and year‑over‑year sales
+- Design a polished, branded dashboard with conditional formatting and custom sorting
 
 ---
 
 ## Tools & Technologies
 
 - Power BI Desktop
-- DAX (Data Analysis Expressions)
-- Power Query (M language)
-- Excel (for initial CSV handling)
-- Colaberry Power BI Cloud
+- Power BI Cloud
+- DAX
+- Excel
+- CSV
+- Power BI Desktop Modeling
+- Power BI Visualizations
+- Power BI Image Insertion
 
 ---
 
 ## Project Workflow
 
-- Import the Walmart sales CSV into Power BI Desktop.
-- Create a Calendar table and refresh‑date table using DAX.
-- Establish relationships between the sales and calendar tables.
-- Add conditional columns for holiday flags and unemployment groups, then apply custom sort orders.
-- Develop DAX measures (Total Sales, Sales per Month, Avg Sales, YoY Sales) and embed logos and titles for a final dashboard.
+- Import CSV data into Power BI Desktop and preview
+- Create Calendar and Refresh Date tables using DAX
+- Establish relationships between Walmart and Calendar tables
+- Add conditional columns for holidays and unemployment rates
+- Generate DAX measures for sales metrics
+- Build and style the dashboard with logos and titles
 
 ---
 
 ## Key Insights
 
-- A dedicated Calendar table enabled accurate month‑level aggregation and YoY calculations.
-- Conditional columns for holiday weeks and unemployment brackets revealed seasonal sales spikes and economic sensitivity.
-- Custom sort columns ensured that month names and categorical flags displayed in logical order on visuals.
-- The YoY Sales measure highlighted recovery patterns, showing which stores rebounded fastest after the recession.
+- Total sales grew steadily across the 45 stores during the 2010‑2012 period
+- Year‑over‑year average sales increased despite early recession effects
+- Holiday weeks and unemployment rates influence weekly sales patterns
+- Custom sorting of conditional columns enhances trend visibility
 
 ---
 
@@ -58,9 +62,9 @@ Walmart’s regional stores needed visibility into how the 2008‑09 recession i
 
 ## Business Impact
 
-- Provided store managers with a clear view of sales recovery timelines, supporting inventory and staffing decisions.
-- Enabled corporate analysts to quantify the effect of holidays and unemployment on sales, informing promotional planning.
-- Delivered a branded, shareable dashboard that can be published to the Colaberry Power BI Cloud for ongoing monitoring.
+- Enables managers to benchmark store performance against economic indicators
+- Supports data‑driven decision making for promotions and staffing
+- Improves transparency and communication across retail operations
 
 ---
 

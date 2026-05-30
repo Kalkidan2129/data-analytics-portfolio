@@ -1,6 +1,6 @@
 # Hi, I'm kalkidan 👋
 
-## Power BI Developer
+## Poer BI Developer
 
 
 ## Skills & Tools
@@ -11,7 +11,7 @@
 
 ## About
 
-I am a data analyst who turns raw operational and financial data into clear, actionable insights using a blend of Python, SQL, and Microsoft Fabric for robust ETL and data warehousing. My work delivers predictive revenue models and performance dashboards—built in Power BI and Excel—that empower finance and strategy teams to forecast demand, track churn, and optimize sales across telecom and retail environments. By integrating machine‑learning techniques with intuitive visualizations, I help organizations make confident, data‑driven decisions that drive growth and efficiency.
+I turn raw, siloed data into clear, actionable insights that drive business decisions, using a blend of Python, Pandas, and Microsoft Fabric for robust ETL and data warehousing. Leveraging Power BI, I design interactive dashboards that reveal revenue trends, churn drivers, and sales performance across sectors, enabling finance and strategy teams to forecast and react proactively. My focus on clean data pipelines, machine‑learning readiness, and intuitive reporting empowers stakeholders to make confident, data‑driven choices.
 
 ---
 
@@ -30,7 +30,7 @@ I am a data analyst who turns raw operational and financial data into clear, act
 
 ## 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-Developed an end‑to‑end analytics pipeline using Python, Microsoft Fabric, and Power BI to transform Vodafone Qatar’s 2021‑2023 telecom data into a unified, ML‑ready dataset and interactive dashboard for finance and strategy teams. The solution enables proactive revenue forecasting, churn monitoring, and data‑driven decision‑making.
+Telecom analytics project focused on revenue forecasting, churn analysis, KPI monitoring, and business reporting.
 
 <br><br>
 
@@ -55,7 +55,7 @@ Developed an end‑to‑end analytics pipeline using Python, Microsoft Fabric, a
 
 ## 2. Walmart Store Sales
 
-Developed an interactive Power BI dashboard analyzing year‑over‑year sales trends for 45 U.S. Walmart stores (Feb 2010 – Oct 2012).
+Retail sales analytics project using Power BI to analyze store performance, sales trends, and business insights.
 
 <br><br>
 
