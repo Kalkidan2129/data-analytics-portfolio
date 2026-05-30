@@ -11,7 +11,7 @@
 
 ## About
 
-I am a data analyst passionate about transforming raw data into actionable insights that drive strategic decision-making. My work spans telecom and retail sectors, where I leverage tools like Python, Power BI, and Microsoft Fabric to build robust ETL pipelines, perform demand forecasting, and create interactive dashboards that uncover trends in customer behavior and sales performance. I specialize in turning complex datasets into clear, business-ready intelligence that empowers teams to act with confidence.
+I am a dataanalyst focused on transforming raw data into actionable insights through advanced analytics and visualization. I leverage Power BI, Python (including Pandas), and ETL processes to build data-driven solutions, with expertise in machine learning and demand forecasting to support strategic decision-making. My work emphasizes dashboarding, reporting, and business intelligence to help organizations optimize performance and drive data-informed strategies.
 
 ---
 
@@ -30,7 +30,7 @@ I am a data analyst passionate about transforming raw data into actionable insig
 
 ## 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-Transformed raw Vodafone telecom data into actionable business intelligence using Python and Microsoft Fabric. Created a unified analytics foundation enabling smarter revenue forecasting and performance tracking for finance teams.
+Developed a unified, ML‑ready data foundation for Vodafone Qatar, transforming raw telecom data with NexusMax, Python, and Microsoft Fabric to enable accurate revenue forecasting and churn analysis. Delivered a Power BI dashboard that empowers finance and strategy teams to make data‑driven decisions.
 
 <br><br>
 
@@ -55,7 +55,7 @@ Transformed raw Vodafone telecom data into actionable business intelligence usin
 
 ## 2. Walmart Store Sales
 
-Analyzed year-over-year sales trends for 45 Walmart stores (2010-2012) to evaluate post-recession performance impacts using Power BI. Leveraged data analytics to deliver actionable insights on sales performance, CPI, and unemployment correlations, supporting strategic decision-making in retail operations.
+The project utilizes Power BI for data visualization and reporting. Key metrics are displayed to stakeholders effectively.
 
 <br><br>
 
