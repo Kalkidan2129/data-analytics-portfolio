@@ -3,54 +3,52 @@
 
 ## Project Summary
 
-Developed an interactive Power BI dashboard to evaluate year‑over‑year sales performance across 45 randomly selected Walmart stores during 2010‑2012, a period of economic recovery post‑recession. The dashboard integrates data modeling, DAX calculations, and visual design to provide actionable insights for retail stakeholders.
+Developed a Power BI dashboard to evaluate year‑over‑year sales for 45 randomly selected Walmart stores in the U.S. between February 2010 and October 2012, a period marked by recovery from the 2008 recession. The dashboard incorporates data modeling, conditional columns, DAX measures, and visual branding to provide actionable insights into sales performance and external factors such as holidays and unemployment.
 
 ---
 
 ## Business Problem
 
-Retail managers needed a clear, data‑driven view of how sales evolved during the early 2010s to inform inventory, staffing, and promotional strategies amid fluctuating economic conditions.
+Retail managers needed a clear, data‑driven view of how macroeconomic conditions and seasonal factors impacted sales during the early post‑recession period. Without this insight, strategic decisions on inventory, staffing, and promotions were based on incomplete or anecdotal information.
 
 ---
 
 ## Objective
 
-- Import and model Walmart sales data with a robust date/calendar table
-- Create DAX measures for total, monthly, average, and year‑over‑year sales
-- Design a polished, branded dashboard with conditional formatting and custom sorting
+- Import and clean Walmart sales data into Power BI.
+- Create a comprehensive date hierarchy and refresh logic for accurate time‑based analysis.
+- Develop DAX measures and conditional columns to quantify sales trends, holiday effects, and unemployment impact.
 
 ---
 
 ## Tools & Technologies
 
-- Power BI Desktop
-- Power BI Cloud
-- DAX
+- Power BI Desktop
+- Power BI Cloud
 - Excel
+- DAX
+- Power Query
 - CSV
-- Power BI Desktop Modeling
-- Power BI Visualizations
-- Power BI Image Insertion
+- Power BI Visualizations
 
 ---
 
 ## Project Workflow
 
-- Import CSV data into Power BI Desktop and preview
-- Create Calendar and Refresh Date tables using DAX
-- Establish relationships between Walmart and Calendar tables
-- Add conditional columns for holidays and unemployment rates
-- Generate DAX measures for sales metrics
-- Build and style the dashboard with logos and titles
+- Import the Walmart sales CSV into Power BI and preview the data.
+- Build a Calendar table and a Refresh Date table using DAX.
+- Establish relationships between the Walmart table and the Calendar table.
+- Create conditional columns for holidays and unemployment rates, then sort them appropriately.
+- Define DAX measures for total sales, monthly averages, and year‑over‑year growth.
 
 ---
 
 ## Key Insights
 
-- Total sales grew steadily across the 45 stores during the 2010‑2012 period
-- Year‑over‑year average sales increased despite early recession effects
-- Holiday weeks and unemployment rates influence weekly sales patterns
-- Custom sorting of conditional columns enhances trend visibility
+- Sales volumes fluctuated significantly during holiday weeks, indicating strong seasonal demand.
+- Unemployment rate variations correlated with dips in weekly sales, highlighting sensitivity to economic conditions.
+- Year‑over‑year growth rates varied across stores, suggesting differing recovery trajectories post‑recession.
+- Custom sorting of holiday and unemployment flags enabled clearer trend visualization in the dashboard.
 
 ---
 
@@ -62,9 +60,9 @@ Retail managers needed a clear, data‑driven view of how sales evolved during t
 
 ## Business Impact
 
-- Enables managers to benchmark store performance against economic indicators
-- Supports data‑driven decision making for promotions and staffing
-- Improves transparency and communication across retail operations
+- Provided store managers with a visual tool to track performance against macroeconomic indicators.
+- Enabled data‑driven decisions on staffing and inventory during high‑impact periods.
+- Improved strategic planning by revealing which stores were most resilient to economic swings.
 
 ---
 
