@@ -3,31 +3,30 @@
 
 ## Project Summary
 
-Developed an interactive Power BI dashboard to analyze year‑over‑year sales trends across 45 Walmart stores in the United States from February 2010 to October 2012, a period following the 2008 recession. The solution integrates CSV data, custom calendar tables, conditional columns, and DAX measures to surface sales performance, holiday impacts, and unemployment influences.
+Developed an interactive Power BI dashboard to analyze year‑over‑year sales across 45 Walmart stores from February 2010 to October 2012, highlighting post‑recession performance trends. The solution integrates data modeling, custom DAX measures, and visual branding to deliver actionable retail insights.
 
 ---
 
 ## Business Problem
 
-Walmart’s regional stores needed visibility into how post‑recession economic conditions affected weekly sales, especially during holiday periods and varying unemployment rates. Without a unified view, managers could not quickly identify underperforming locations or seasonal patterns.
+Walmart’s regional stores needed visibility into how the 2008‑09 recession impacted sales and how recovery unfolded across locations. Stakeholders required a clear, drill‑down view of sales, seasonal effects, and macro‑economic factors such as unemployment rates.
 
 ---
 
 ## Objective
 
-- Ingest and clean raw sales CSV data for 45 stores.
-- Create time‑intelligence models (calendar table, date relationships) and derived metrics (YOY growth, CPI, unemployment impact).
-- Deliver a polished, brand‑aligned Power BI dashboard for executive review.
+- Create a unified data model with a calendar table for time‑intelligent analysis.
+- Build conditional columns and DAX measures to capture holiday effects, unemployment groups, and YoY sales performance.
+- Design a polished, branded dashboard that enables stakeholders to explore sales trends by store, month, and year.
 
 ---
 
 ## Tools & Technologies
 
 - Power BI Desktop
-- DAX
-- Power Query (M)
-- Excel (for data preparation)
-- CSV data source
+- DAX (Data Analysis Expressions)
+- Power Query (M language)
+- Excel (for initial CSV handling)
 - Colaberry Power BI Cloud
 
 ---
@@ -35,19 +34,19 @@ Walmart’s regional stores needed visibility into how post‑recession economic
 ## Project Workflow
 
 - Import the Walmart sales CSV into Power BI Desktop.
-- Build a Calendar table and refresh‑date table using DAX and Power Query.
+- Create a Calendar table and refresh‑date table using DAX.
 - Establish relationships between the sales and calendar tables.
-- Create conditional columns for holiday flags and unemployment groups, then apply custom sort orders.
-- Develop DAX measures for total sales, average sales, sales YOY, and CPI, and embed logos and titles for branding.
+- Add conditional columns for holiday flags and unemployment groups, then apply custom sort orders.
+- Develop DAX measures (Total Sales, Sales per Month, Avg Sales, YoY Sales) and embed logos and titles for a final dashboard.
 
 ---
 
 ## Key Insights
 
-- Sales showed measurable YoY variation across the 2010‑2012 window, highlighting recovery patterns after the recession.
-- Holiday weeks generated distinct spikes in weekly sales, confirmed by the Holiday Flag conditional column.
-- Stores located in regions with higher unemployment rates exhibited lower average sales, as captured by the Unemployment Rate grouping.
-- Custom month sorting enabled clear month‑over‑month visual comparisons, improving trend readability.
+- A dedicated Calendar table enabled accurate month‑level aggregation and YoY calculations.
+- Conditional columns for holiday weeks and unemployment brackets revealed seasonal sales spikes and economic sensitivity.
+- Custom sort columns ensured that month names and categorical flags displayed in logical order on visuals.
+- The YoY Sales measure highlighted recovery patterns, showing which stores rebounded fastest after the recession.
 
 ---
 
@@ -59,9 +58,9 @@ Walmart’s regional stores needed visibility into how post‑recession economic
 
 ## Business Impact
 
-- Enabled store managers to pinpoint periods of under‑performance and allocate resources proactively.
-- Provided leadership with a single, branded dashboard to monitor recovery trends and seasonal effects.
-- Facilitated data‑driven decision‑making for inventory and promotional planning across the 45‑store network.
+- Provided store managers with a clear view of sales recovery timelines, supporting inventory and staffing decisions.
+- Enabled corporate analysts to quantify the effect of holidays and unemployment on sales, informing promotional planning.
+- Delivered a branded, shareable dashboard that can be published to the Colaberry Power BI Cloud for ongoing monitoring.
 
 ---
 

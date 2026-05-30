@@ -3,21 +3,21 @@
 
 ## Project Summary
 
-This project developed a data-driven revenue forecasting model for Vodafone Qatar by transforming and analyzing telecom data to identify patterns in revenue, churn, and customer behavior. It created an ML-ready dataset enabling accurate forecasting and informed decision-making for finance teams. The solution leverages tools like Python and Microsoft Fabric to unify and enrich the dataset.
+This project transforms Vodafone Qatar’s 2021‑2023 telecom data into a unified, ML‑ready dataset using NexusMax, Python, and Microsoft Fabric. It delivers a Power BI dashboard that visualizes revenue, churn, ARPU, and network performance, enabling finance and strategy teams to forecast quarterly revenue and optimize budget allocation.
 
 ---
 
 ## Business Problem
 
-Vodafone Qatar faced challenges in predicting revenue shifts due to fragmented data and inconsistent metrics across regions and customer segments. The lack of a unified analytics platform hindered accurate forecasting and strategic decision-making. Fluctuations in churn and subscriber behavior created uncertainty in budget planning and revenue stability.
+Telecom revenue performance varies across regions and customer segments, yet finance and strategy teams lack a consolidated view to understand growth drivers and revenue risks. Fluctuations in churn and subscriber behavior create uncertainty in forecasting and budget planning.
 
 ---
 
 ## Objective
 
-- Improve quarterly revenue forecasting accuracy to optimize budget allocation across high-growth segments.
-- Reduce churn in key telecom segments to protect recurring revenue.
-- Enhance visibility into regional and segment-level performance for data-driven strategic planning.
+- Create a clean, standardized dataset covering key KPIs such as revenue, ARPU, churn, and network availability.
+- Build an ML‑ready data foundation to support accurate quarterly revenue forecasting.
+- Deliver an interactive Power BI dashboard for performance tracking and strategic decision‑making.
 
 ---
 
@@ -27,29 +27,27 @@ Vodafone Qatar faced challenges in predicting revenue shifts due to fragmented d
 - Python
 - Microsoft Fabric
 - Power BI
-- Python - Pandas
-- Data Science
-- Machine Learning
-- ETL
+- Pandas
+- Supervised regression models
 
 ---
 
 ## Project Workflow
 
-- Define the business problem and objectives for revenue forecasting and churn reduction.
-- Clean and standardize raw telecom data to ensure consistency and accuracy.
-- Select and implement supervised regression models for revenue forecasting.
-- Develop visualizations and dashboards to present key KPIs and trends.
-- Deploy the solution to provide actionable insights for finance and strategy teams.
+- Extract raw telecom data from Kaggle and Vodafone investor presentations.
+- Clean, standardize, and enrich the data using NexusMax and Python scripts.
+- Create a centralized date table and validate key metrics for consistency.
+- Apply supervised regression techniques to forecast quarterly revenue.
+- Publish the unified dataset and dashboard to the Colaberry Power BI Cloud.
 
 ---
 
 ## Key Insights
 
-- Revenue increased 14% QoQ, driven by Doha's 72M subscribers, indicating predictable growth patterns.
-- High churn in Mobile Postpaid and Fixed Broadband segments (2.41%-2.74%) leads to $8–12K annual loss.
-- Network availability at 99.95% supports customer retention efforts.
-- Unified ML-ready dataset enables proactive decision-making by finance teams.
+- Total revenue grew 14% QoQ to $108K, driven largely by Doha’s 72M subscribers.
+- High‑value mobile prepaid churn remains above 2.5%, increasing by 0.3% QoQ, impacting revenue stability.
+- ARPU and digital sales penetration trends indicate opportunities for targeted upsell campaigns.
+- Network expansion data, including 5G rollout progress, correlates with regional revenue spikes.
 
 ---
 
@@ -61,9 +59,9 @@ Vodafone Qatar faced challenges in predicting revenue shifts due to fragmented d
 
 ## Business Impact
 
-- Enhanced revenue forecasting accuracy reduces budget allocation risks and optimizes investments.
-- Lowering churn in key segments protects recurring revenue and increases net profit.
-- Unified analytics platform improves decision-making speed for finance and strategy teams.
+- Improved quarterly revenue forecast accuracy supports more confident budget allocation.
+- Enhanced visibility into churn and ARPU enables targeted retention strategies.
+- Unified data foundation reduces time to insight, accelerating strategic planning cycles.
 
 ---
 
