@@ -1,4 +1,4 @@
-# Hi, I'm kalkidan kindie 👋
+# Hi, I'm kalkidan 👋
 
 ## Power BI Developer
 
@@ -11,7 +11,7 @@
 
 ## About
 
-I am a data‑analytics professional who turns raw, multi‑source datasets into clear, actionable business intelligence, leveraging Python (Pandas) for data cleaning and enrichment, ETL pipelines, and cloud‑based warehousing tools such as Microsoft Fabric. I build interactive Power BI dashboards and automated reports that surface trends in revenue, churn, and sales performance, enabling finance, strategy, and retail teams to make data‑driven decisions quickly. My work blends statistical forecasting, basic machine‑learning preparation, and visual storytelling to deliver reliable insights across telecom and retail environments.
+"I leverage data analytics expertise to transform raw information into actionable insights, utilizing tools like Python and Power BI to enhance dashboards and reporting, ensuring informed decisions across industries."
 
 ---
 
@@ -30,7 +30,7 @@ I am a data‑analytics professional who turns raw, multi‑source datasets into
 
 ## 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-The project leverages advanced analytics to predict revenue trends, enabling data-driven decisions.
+Revenue Forecasting & Performance Insights for Vodafone Qatar (2021–2023)   This project transforms raw telecom data into actionable intelligence, delivering a unified ML-ready foundation. By leveraging NexusMax, Python, and Microsoft Fabric, we uncovered hidden patterns in revenue, churn, and customer behavior.
 
 <br><br>
 
@@ -55,7 +55,7 @@ The project leverages advanced analytics to predict revenue trends, enabling dat
 
 ## 2. Walmart Store Sales
 
-Developed a Power BI dashboard analyzing YoY sales trends across 45 U.
+Walmart Store Sales dashboard provides comprehensive year-over-year insights across 45 US stores from 2010-2012, highlighting recession impacts and discount effects.
 
 <br><br>
 

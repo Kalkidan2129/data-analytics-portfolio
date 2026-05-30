@@ -5,51 +5,52 @@
 
 ## Project Summary
 
-Developed an interactive Power BI dashboard that visualizes year‑over‑year sales for 45 Walmart stores across the United States from February 2010 to October 2012. The solution integrates raw CSV data, a custom calendar table, and DAX measures to surface trends, seasonal effects, and recession‑era performance impacts.
+This project analyzes year-over-year sales performance across 45 Walmart stores in the US from Feb 2010 to Oct 2012, focusing on post-recession retail trends. Using Power BI and Excel, it builds a dashboard to visualize sales patterns, holiday impacts, and economic factors like unemployment rates. The analysis provides actionable insights for retail strategy during economic recovery periods.
 
 ---
 
 ## Business Problem
 
-Walmart’s regional stores needed a clear view of how the 2008‑09 recession affected sales and how performance evolved month‑to‑month across locations. Existing reporting lacked consolidated, drill‑down visualizations and timely insights for store managers and regional planners.
+During the post-2008 recession recovery, Walmart stores faced fluctuating sales performance, requiring data-driven insights to understand seasonal trends, holiday impacts, and economic influences. The challenge was to create a scalable analytical framework to assess store-level sales dynamics and support strategic decision-making in a volatile retail environment.
 
 ---
 
 ## Objective
 
-- Ingest and model the Walmart sales CSV for reliable analysis.
-- Create time‑intelligence structures (calendar table, relationships) to enable YoY and monthly comparisons.
-- Build a polished, brand‑aligned dashboard with key metrics, custom sorting, and visual cues for holidays and unemployment trends.
+- Analyze year-over-year sales trends for 45 Walmart stores during 2010-2012
+- Identify correlations between sales performance and external factors like unemployment rates and holidays
+- Develop an interactive Power BI dashboard for stakeholder decision-making
 
 ---
 
 ## Tools & Technologies
 
-- Power BI Desktop
+- Power BI Desktop
 - DAX (Data Analysis Expressions)
-- Excel (for initial data review)
-- CSV data source
-- Power BI modeling view
-- Power BI visual formatting
+- Power Query Editor
+- CSV Data Files
+- Excel
+- Calendar Table Modeling
+- Conditional Column Logic
 
 ---
 
 ## Project Workflow
 
-- Import the Walmart sales CSV into Power BI Desktop.
-- Create a Calendar table and a Refresh Date table using DAX.
-- Establish relationships between the sales table and the Calendar table.
-- Add conditional columns, custom sort orders, and DAX measures for total sales, average sales, and YoY growth.
-- Design the final dashboard, embed logos, and publish for stakeholder consumption.
+- Imported and transformed Walmart sales data from CSV into Power BI Desktop
+- Created calendar and refresh date tables using DAX formulas for time-based analysis
+- Established relationships between sales data and calendar tables for temporal alignment
+- Built conditional columns for holiday flags and unemployment rate categories
+- Developed DAX measures for total sales, monthly averages, and year-over-year comparisons
 
 ---
 
 ## Key Insights
 
-- A dedicated Calendar table enables accurate month‑level aggregation and YoY calculations.
-- Custom sorting of holiday flags and unemployment groups reveals seasonal sales patterns.
-- YoY sales DAX measure highlights stores that recovered faster after the recession.
-- Embedding corporate logos and a clear title improves dashboard adoption and brand consistency.
+- Holiday periods significantly influenced weekly sales performance across sampled stores
+- Unemployment rate fluctuations correlated with consumer spending patterns during recovery
+- Year-over-year sales analysis revealed recovery trends post-2008 recession
+- Store-level sales variability highlighted the need for localized retail strategies
 
 ---
 
@@ -61,9 +62,9 @@ Walmart’s regional stores needed a clear view of how the 2008‑09 recession a
 
 ## Business Impact
 
-- Provides store managers with a single source of truth for tracking sales performance over time.
-- Identifies seasonal and economic drivers, supporting more informed inventory and staffing decisions.
-- Accelerates reporting cycles, reducing manual spreadsheet effort and enabling faster strategic actions.
+- Enabled data-driven decisions for inventory and staffing during critical holiday periods
+- Provided visibility into economic factor impacts on retail performance for strategic planning
+- Established a reusable analytical framework for future sales trend assessments
 
 ---
 
