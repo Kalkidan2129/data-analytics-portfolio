@@ -11,7 +11,7 @@
 
 ## About
 
-I utilize Python and Power BI to analyze data, transforming insights into actionable strategies for informed decision-making.
+I am a data‑analytics professional who turns raw, multi‑source datasets into clear, actionable business intelligence, leveraging Python (Pandas) for data cleaning and enrichment, ETL pipelines, and cloud‑based warehousing tools such as Microsoft Fabric. I build interactive Power BI dashboards and automated reports that surface trends in revenue, churn, and sales performance, enabling finance, strategy, and retail teams to make data‑driven decisions quickly. My work blends statistical forecasting, basic machine‑learning preparation, and visual storytelling to deliver reliable insights across telecom and retail environments.
 
 ---
 
@@ -30,15 +30,7 @@ I utilize Python and Power BI to analyze data, transforming insights into action
 
 ## 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023) delivers actionable business intelligence by transforming raw telecom data into a unified, ML-ready foundation. Leveraging NexusMax, Python, and Microsoft Fabric, the project identifies hidden patterns in revenue, churn, and customer behavior, enabling smarter forecasting, sharper performance tracking, and confident, data-driven decisions for finance and strategy teams.
-
-Key deliverables include a polished Power BI dashboard with KPI cards, visualizations, and interactive elements, ensuring stakeholders gain clear, executive-level insights. The solution emphasizes seamless integration of data science and business strategy, optimized for scalability and future forecasting needs.
-
-Summary: A data-driven approach to unlock revenue insights, reduce uncertainty, and empower strategic planning for telecom leaders.
-
----
-
-I adjusted the summary to be concise, professional, and tailored for recruiters, emphasizing actionable outcomes and business impact.
+The project leverages advanced analytics to predict revenue trends, enabling data-driven decisions.
 
 <br><br>
 
@@ -63,8 +55,7 @@ I adjusted the summary to be concise, professional, and tailored for recruiters,
 
 ## 2. Walmart Store Sales
 
-Analyzed Walmart store sales performance using Power BI to drive retail insights and optimize business strategies.
-</assistant>
+Developed a Power BI dashboard analyzing YoY sales trends across 45 U.
 
 <br><br>
 
@@ -81,4 +72,4 @@ Analyzed Walmart store sales performance using Power BI to drive retail insights
 
 ## Contact
 
-[GitHub](https://github.com/klakidan2129) | [Email](mailto:kalkidankin@gmail.com)
+[GitHub](https://github.com/kalkidan2129) | [Email](mailto:kalkidankin@gmail.com)

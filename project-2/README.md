@@ -5,50 +5,51 @@
 
 ## Project Summary
 
-This project involved creating a Power BI dashboard to analyze year-over-year sales performance of 45 Walmart stores during the post-Great Recession period. The dashboard visualized sales trends, holiday impacts, and unemployment effects on retail performance.
+Developed an interactive Power BI dashboard that visualizes year‑over‑year sales for 45 Walmart stores across the United States from February 2010 to October 2012. The solution integrates raw CSV data, a custom calendar table, and DAX measures to surface trends, seasonal effects, and recession‑era performance impacts.
 
 ---
 
 ## Business Problem
 
-Walmart faced challenges in understanding sales performance patterns during the economic recovery period following the 2008 recession. The company needed insights into how external factors like holidays and unemployment rates affected store sales to make data-driven decisions.
+Walmart’s regional stores needed a clear view of how the 2008‑09 recession affected sales and how performance evolved month‑to‑month across locations. Existing reporting lacked consolidated, drill‑down visualizations and timely insights for store managers and regional planners.
 
 ---
 
 ## Objective
 
-- Develop a comprehensive sales dashboard to track year-over-year performance
-- Analyze the impact of holidays and unemployment rates on retail sales
-- Create visualizations that help identify sales trends and patterns
+- Ingest and model the Walmart sales CSV for reliable analysis.
+- Create time‑intelligence structures (calendar table, relationships) to enable YoY and monthly comparisons.
+- Build a polished, brand‑aligned dashboard with key metrics, custom sorting, and visual cues for holidays and unemployment trends.
 
 ---
 
 ## Tools & Technologies
 
-- Power BI
-- Excel
-- DAX
-- Power Query
-- Data Modeling
+- Power BI Desktop
+- DAX (Data Analysis Expressions)
+- Excel (for initial data review)
+- CSV data source
+- Power BI modeling view
+- Power BI visual formatting
 
 ---
 
 ## Project Workflow
 
-- Import and prepare Walmart sales data from CSV files
-- Create calendar and refresh date tables for time-based analysis
-- Establish relationships between data tables
-- Develop conditional columns for holiday and unemployment analysis
-- Create DAX measures for sales calculations and visualizations
+- Import the Walmart sales CSV into Power BI Desktop.
+- Create a Calendar table and a Refresh Date table using DAX.
+- Establish relationships between the sales table and the Calendar table.
+- Add conditional columns, custom sort orders, and DAX measures for total sales, average sales, and YoY growth.
+- Design the final dashboard, embed logos, and publish for stakeholder consumption.
 
 ---
 
 ## Key Insights
 
-- Sales performance varied significantly across different time periods during the post-recession recovery
-- Holiday weeks showed distinct patterns in consumer purchasing behavior
-- Unemployment rates correlated with fluctuations in retail sales
-- Year-over-year comparisons revealed trends in store performance
+- A dedicated Calendar table enables accurate month‑level aggregation and YoY calculations.
+- Custom sorting of holiday flags and unemployment groups reveals seasonal sales patterns.
+- YoY sales DAX measure highlights stores that recovered faster after the recession.
+- Embedding corporate logos and a clear title improves dashboard adoption and brand consistency.
 
 ---
 
@@ -60,9 +61,9 @@ Walmart faced challenges in understanding sales performance patterns during the 
 
 ## Business Impact
 
-- Provided Walmart with actionable insights into sales performance during economic recovery
-- Enabled data-driven decision making for inventory and staffing based on seasonal trends
-- Created a reusable dashboard framework for ongoing sales analysis
+- Provides store managers with a single source of truth for tracking sales performance over time.
+- Identifies seasonal and economic drivers, supporting more informed inventory and staffing decisions.
+- Accelerates reporting cycles, reducing manual spreadsheet effort and enabling faster strategic actions.
 
 ---
 
