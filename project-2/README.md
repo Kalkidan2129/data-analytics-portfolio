@@ -5,52 +5,50 @@
 
 ## Project Summary
 
-The Walmart Store Sales project develops an interactive Power BI dashboard that analyzes year‑over‑year sales performance across 45 U.S. Walmart locations from February 2010 to October 2012. It integrates holiday and unemployment variables to assess post‑recession sales trends.
+This project involved creating a Power BI dashboard to analyze year-over-year sales performance of 45 Walmart stores during the post-Great Recession period. The dashboard visualized sales trends, holiday impacts, and unemployment effects on retail performance.
 
 ---
 
 ## Business Problem
 
-Walmart stores experienced declining sales during the aftermath of the 2008 financial crisis, and without granular, data‑driven insights, store managers struggled to pinpoint the economic and seasonal factors driving revenue fluctuations. This lack of insight limited proactive adjustments to pricing, staffing, and inventory strategies.
+Walmart faced challenges in understanding sales performance patterns during the economic recovery period following the 2008 recession. The company needed insights into how external factors like holidays and unemployment rates affected store sales to make data-driven decisions.
 
 ---
 
 ## Objective
 
-- Build a unified Power BI dashboard consolidating sales, calendar, and external economic data
-- Engineer conditional columns and relationships to segment sales by holiday weeks and unemployment
-- Deploy the solution to Power BI Cloud for stakeholder access and ongoing monitoring
+- Develop a comprehensive sales dashboard to track year-over-year performance
+- Analyze the impact of holidays and unemployment rates on retail sales
+- Create visualizations that help identify sales trends and patterns
 
 ---
 
 ## Tools & Technologies
 
 - Power BI
-- Power BI Desktop
-- Power BI Cloud
 - Excel
-- Data Analytics
-- Retail
-- Sales
+- DAX
+- Power Query
+- Data Modeling
 
 ---
 
 ## Project Workflow
 
-- Import CSV data into Power BI Desktop
-- Transform data: create calendar table, conditional columns for holidays and unemployment
-- Model relationships and define sorting columns
-- Develop DAX measures for sales, YoY growth, and average CPI
-- Publish dashboard to Power BI Cloud and add branding elements
+- Import and prepare Walmart sales data from CSV files
+- Create calendar and refresh date tables for time-based analysis
+- Establish relationships between data tables
+- Develop conditional columns for holiday and unemployment analysis
+- Create DAX measures for sales calculations and visualizations
 
 ---
 
 ## Key Insights
 
-- The dataset spans 45 Walmart stores across the United States from February 2010 to October 2012, covering the post‑recession period.
-- Year‑over‑year sales analysis reveals notable fluctuations tied to holiday weeks and regional unemployment rates.
-- Conditional columns for holiday weeks and unemployment enable granular segmentation of sales performance.
-- DAX measures such as Total Sales, Sales YoY, and AVG CPI provide deeper analytical visibility into revenue trends.
+- Sales performance varied significantly across different time periods during the post-recession recovery
+- Holiday weeks showed distinct patterns in consumer purchasing behavior
+- Unemployment rates correlated with fluctuations in retail sales
+- Year-over-year comparisons revealed trends in store performance
 
 ---
 
@@ -62,9 +60,9 @@ Walmart stores experienced declining sales during the aftermath of the 2008 fina
 
 ## Business Impact
 
-- Empowers store managers with actionable insights to adjust inventory and staffing in response to economic and seasonal drivers.
-- Supports strategic planning to mitigate recession‑related sales declines and improve revenue resilience.
-- Facilitates data‑driven decision making across the retail network through a scalable, cloud‑based dashboard.
+- Provided Walmart with actionable insights into sales performance during economic recovery
+- Enabled data-driven decision making for inventory and staffing based on seasonal trends
+- Created a reusable dashboard framework for ongoing sales analysis
 
 ---
 

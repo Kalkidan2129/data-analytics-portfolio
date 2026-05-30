@@ -5,13 +5,13 @@
 
 ## Skills & Tools
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/Python-025E8C?style=for-the-badge&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Pandas-3776AB?style=for-the-badge&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logoColor=white" alt="Excel"> <img src="https://img.shields.io/badge/ETL-FF7A00?style=for-the-badge&logoColor=white" alt="ETL"> <img src="https://img.shields.io/badge/Machine%20Learning-00A6A6?style=for-the-badge&logoColor=white" alt="Machine Learning">
+<img src="https://img.shields.io/badge/ETL-F2C811?style=for-the-badge&logoColor=white" alt="ETL"> <img src="https://img.shields.io/badge/Data%20Warehousing-025E8C?style=for-the-badge&logoColor=white" alt="Data Warehousing"> <img src="https://img.shields.io/badge/Machine%20Learning-3776AB?style=for-the-badge&logoColor=white" alt="Machine Learning"> <img src="https://img.shields.io/badge/Demand%20Forecasting-217346?style=for-the-badge&logoColor=white" alt="Demand Forecasting"> <img src="https://img.shields.io/badge/AI%20Sales%20Forecasting-FF7A00?style=for-the-badge&logoColor=white" alt="AI Sales Forecasting"> <img src="https://img.shields.io/badge/Power%20BI-00A6A6?style=for-the-badge&logoColor=white" alt="Power BI"> <img src="https://img.shields.io/badge/Python-6A5ACD?style=for-the-badge&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Pandas-D83B01?style=for-the-badge&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/Excel-F2C811?style=for-the-badge&logoColor=white" alt="Excel">
 
 ---
 
 ## About
 
-I am a data analyst passionate about transforming raw data into actionable insights, specializing in ETL processes, data warehousing, and business intelligence solutions using tools like Python, Power BI, and Microsoft Fabric. My work focuses on uncovering patterns in customer behavior and sales trends to drive strategic decision-making, with expertise in demand forecasting, reporting, and dashboard development. I thrive on turning complex datasets into clear, impactful visualizations that empower teams to make confident, data-driven decisions across industries like telecommunications and retail.
+I utilize Python and Power BI to analyze data, transforming insights into actionable strategies for informed decision-making.
 
 ---
 
@@ -30,7 +30,15 @@ I am a data analyst passionate about transforming raw data into actionable insig
 
 ## 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-Built an ML‑ready data pipeline and Power BI dashboard for Vodafone Qatar, delivering revenue forecasting, churn analysis, and actionable insights that empower finance and strategy teams.
+Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023) delivers actionable business intelligence by transforming raw telecom data into a unified, ML-ready foundation. Leveraging NexusMax, Python, and Microsoft Fabric, the project identifies hidden patterns in revenue, churn, and customer behavior, enabling smarter forecasting, sharper performance tracking, and confident, data-driven decisions for finance and strategy teams.
+
+Key deliverables include a polished Power BI dashboard with KPI cards, visualizations, and interactive elements, ensuring stakeholders gain clear, executive-level insights. The solution emphasizes seamless integration of data science and business strategy, optimized for scalability and future forecasting needs.
+
+Summary: A data-driven approach to unlock revenue insights, reduce uncertainty, and empower strategic planning for telecom leaders.
+
+---
+
+I adjusted the summary to be concise, professional, and tailored for recruiters, emphasizing actionable outcomes and business impact.
 
 <br><br>
 
@@ -55,7 +63,8 @@ Built an ML‑ready data pipeline and Power BI dashboard for Vodafone Qatar, d
 
 ## 2. Walmart Store Sales
 
-Analyzed year-over-year sales trends for 45 Walmart stores (Feb 2010–Oct 2012) using Power BI and Excel to evaluate post-recession retail performance.
+Analyzed Walmart store sales performance using Power BI to drive retail insights and optimize business strategies.
+</assistant>
 
 <br><br>
 
@@ -72,4 +81,4 @@ Analyzed year-over-year sales trends for 45 Walmart stores (Feb 2010–Oct 2012)
 
 ## Contact
 
-[GitHub](https://github.com/kalkidan2129) | [Email](mailto:kalkidankin@gmail.com)
+[GitHub](https://github.com/klakidan2129) | [Email](mailto:kalkidankin@gmail.com)
