@@ -5,52 +5,51 @@
 
 ## Project Summary
 
-This project analyzes year-over-year sales performance across 45 Walmart stores in the US from Feb 2010 to Oct 2012, focusing on post-recession retail trends. Using Power BI and Excel, it builds a dashboard to visualize sales patterns, holiday impacts, and economic factors like unemployment rates. The analysis provides actionable insights for retail strategy during economic recovery periods.
+This project analyzes year-over-year sales data for 45 Walmart stores in the US between 2010 and 2012, offering insights into retail performance during a challenging economic period.
 
 ---
 
 ## Business Problem
 
-During the post-2008 recession recovery, Walmart stores faced fluctuating sales performance, requiring data-driven insights to understand seasonal trends, holiday impacts, and economic influences. The challenge was to create a scalable analytical framework to assess store-level sales dynamics and support strategic decision-making in a volatile retail environment.
+Understanding the impact of economic downturns on retail sales at random Walmart locations to inform strategic decision-making.
 
 ---
 
 ## Objective
 
-- Analyze year-over-year sales trends for 45 Walmart stores during 2010-2012
-- Identify correlations between sales performance and external factors like unemployment rates and holidays
-- Develop an interactive Power BI dashboard for stakeholder decision-making
+- Assess sales trends across multiple Walmart stores over a two-year period.
+- Identify seasonal and month-to-month variations in retail performance.
+- Visualize and compare sales data to support business insights and forecasting.
 
 ---
 
 ## Tools & Technologies
 
-- Power BI Desktop
-- DAX (Data Analysis Expressions)
-- Power Query Editor
-- CSV Data Files
+- Power BI
 - Excel
-- Calendar Table Modeling
-- Conditional Column Logic
+- Data Analysis
+- Power Query
+- DAX
+- Table Visualizations
 
 ---
 
 ## Project Workflow
 
-- Imported and transformed Walmart sales data from CSV into Power BI Desktop
-- Created calendar and refresh date tables using DAX formulas for time-based analysis
-- Established relationships between sales data and calendar tables for temporal alignment
-- Built conditional columns for holiday flags and unemployment rate categories
-- Developed DAX measures for total sales, monthly averages, and year-over-year comparisons
+- Import the Walmart sales data into Power BI Desktop.
+- Create a calendar table to map sales to specific months.
+- Establish relationships between Walmart store data and calendar events.
+- Build conditional columns to highlight special periods or anomalies.
+- Develop DAX measures for total sales, average sales, and year-over-year comparisons.
+- Design and customize visualizations to present findings clearly.
 
 ---
 
 ## Key Insights
 
-- Holiday periods significantly influenced weekly sales performance across sampled stores
-- Unemployment rate fluctuations correlated with consumer spending patterns during recovery
-- Year-over-year sales analysis revealed recovery trends post-2008 recession
-- Store-level sales variability highlighted the need for localized retail strategies
+- Sales patterns in Walmart stores reflected broader retail trends during the early 2010s recession.
+- Certain months consistently showed lower sales, indicating seasonal influences.
+- The project demonstrated the effectiveness of data integration and visualization in retail analytics.
 
 ---
 
@@ -62,9 +61,9 @@ During the post-2008 recession recovery, Walmart stores faced fluctuating sales 
 
 ## Business Impact
 
-- Enabled data-driven decisions for inventory and staffing during critical holiday periods
-- Provided visibility into economic factor impacts on retail performance for strategic planning
-- Established a reusable analytical framework for future sales trend assessments
+- Provides actionable insights for retailers to adapt strategies during economic downturns.
+- Enables better forecasting and resource allocation for Walmart stores.
+- Supports data-driven decisions to maintain competitiveness in the retail sector.
 
 ---
 

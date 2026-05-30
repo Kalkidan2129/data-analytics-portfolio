@@ -11,7 +11,7 @@
 
 ## About
 
-"I leverage data analytics expertise to transform raw information into actionable insights, utilizing tools like Python and Power BI to enhance dashboards and reporting, ensuring informed decisions across industries."
+I am a data analyst who specializes in turning raw, multi‑source datasets into clear, actionable business intelligence through end‑to‑end ETL pipelines, statistical modeling, and interactive visualizations. My toolkit includes Python (Pandas, machine‑learning libraries), SQL‑based data warehousing, and Power BI dashboards that enable finance, strategy, and retail teams to monitor performance, forecast demand, and make data‑driven decisions with confidence. I thrive on extracting hidden patterns from telecom and retail data to deliver concise reports and visual insights that drive measurable business outcomes.
 
 ---
 
@@ -30,7 +30,7 @@
 
 ## 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-Revenue Forecasting & Performance Insights for Vodafone Qatar (2021–2023)   This project transforms raw telecom data into actionable intelligence, delivering a unified ML-ready foundation. By leveraging NexusMax, Python, and Microsoft Fabric, we uncovered hidden patterns in revenue, churn, and customer behavior.
+Developed an end‑to‑end analytics pipeline that transformed Vodafone Qatar’s 2021‑2023 telecom data into a unified, ML‑ready dataset and interactive Power BI dashboard for revenue forecasting, churn monitoring, and strategic financial planning. The solution enables finance and strategy teams to make proactive, data‑driven decisions across regions and customer segments.
 
 <br><br>
 
@@ -55,7 +55,7 @@ Revenue Forecasting & Performance Insights for Vodafone Qatar (2021–2023)   Th
 
 ## 2. Walmart Store Sales
 
-Walmart Store Sales dashboard provides comprehensive year-over-year insights across 45 US stores from 2010-2012, highlighting recession impacts and discount effects.
+This project analyzes Walmart store sales trends across 45 US locations from 2010 to 2012, highlighting challenges during the recession. It uses Power BI to create detailed visualizations, DAX measures, and custom visuals for clear insights.
 
 <br><br>
 

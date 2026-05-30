@@ -5,53 +5,51 @@
 
 ## Project Summary
 
-This project transforms Vodafone Qatar's telecom data into actionable insights for revenue forecasting and performance analysis. By leveraging data transformation tools and machine learning, it identifies patterns in revenue, churn, and customer behavior to support data-driven decisions. The solution provides a unified ML-ready dataset and visualization dashboard for finance and strategy teams.
+This project analyzes Vodafone Qatar performance data to support revenue forecasting, churn analysis, KPI monitoring, and business reporting.
 
 ---
 
 ## Business Problem
 
-Vodafone Qatar faced challenges in predicting revenue shifts due to fragmented data and high churn rates in key segments. Fluctuations in subscriber behavior and lack of consolidated analytics hindered accurate forecasting and budget planning.
+Telecom leaders need reliable visibility into revenue trends, churn behavior, subscriber activity, and network performance so they can make better forecasting and strategy decisions.
 
 ---
 
 ## Objective
 
-- Improve quarterly revenue forecasting accuracy to optimize budget allocation
-- Reduce churn in high-value telecom segments to protect recurring revenue
-- Unify disparate data sources into a centralized analytics platform
+- Analyze telecom revenue, churn, subscriber, and network performance trends.
+- Prepare data for forecasting and KPI-based business analysis.
+- Create a clear analytics story for finance and strategy decision-making.
 
 ---
 
 ## Tools & Technologies
 
-- NexusMax
-- Python
-- Microsoft Fabric
 - Power BI
+- Python
 - Pandas
-- Machine Learning
-- Data Warehousing
+- Microsoft Fabric
 - ETL
+- Data Forecasting
 
 ---
 
 ## Project Workflow
 
-- Clean and standardize raw telecom data to ensure consistency
-- Engineer features for revenue, churn, and customer behavior analysis
-- Apply supervised regression models for quarterly forecasting
-- Build a visualization dashboard for KPI tracking and trend analysis
-- Validate insights through case studies on revenue growth and churn reduction
+- Defined the telecom forecasting and KPI monitoring objectives.
+- Reviewed Vodafone Qatar revenue, subscriber, churn, and network performance data.
+- Prepared and transformed project data for analytics and forecasting workflows.
+- Built Power BI dashboards to monitor telecom business performance trends.
+- Summarized findings into business-focused insights and reporting outputs.
 
 ---
 
 ## Key Insights
 
-- Revenue grew 14% QoQ in 2023, driven by Doha's 72M subscribers
-- Churn in Mobile Postpaid and Fixed Broadband segments costs $8–12K annually
-- Network availability at 99.95% supports retention efforts
-- Unified dataset enables proactive identification of revenue risks
+- Analyzed telecom revenue, subscriber, churn, and network performance metrics.
+- Built analytics dashboards to help stakeholders monitor KPI performance and revenue trends.
+- Prepared and transformed project data for forecasting and business analysis workflows.
+- Connected operational metrics to business-focused visual reporting for decision-making.
 
 ---
 
@@ -63,9 +61,9 @@ Vodafone Qatar faced challenges in predicting revenue shifts due to fragmented d
 
 ## Business Impact
 
-- Optimized budget allocation through accurate revenue forecasting
-- Reduced avoidable churn losses by targeting high-risk segments
-- Enhanced decision-making with real-time access to unified analytics
+- Improves visibility into telecom revenue, churn, and subscriber performance.
+- Supports forecasting and strategic planning for finance and leadership teams.
+- Helps decision-makers monitor business health through KPI-focused reporting.
 
 ---
 
@@ -78,7 +76,7 @@ Vodafone Qatar faced challenges in predicting revenue shifts due to fragmented d
 
 ## Generation Method
 
-This project page was generated using: **AI-assisted project analysis**
+This project page was generated using: **rule-based fallback generation**
 
 ---
 
