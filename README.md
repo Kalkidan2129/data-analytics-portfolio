@@ -11,7 +11,7 @@
 
 ## About
 
-I am a data analyst who specializes in turning raw, multi‑source datasets into clear, actionable business intelligence through end‑to‑end ETL pipelines, statistical modeling, and interactive visualizations. My toolkit includes Python (Pandas, machine‑learning libraries), SQL‑based data warehousing, and Power BI dashboards that enable finance, strategy, and retail teams to monitor performance, forecast demand, and make data‑driven decisions with confidence. I thrive on extracting hidden patterns from telecom and retail data to deliver concise reports and visual insights that drive measurable business outcomes.
+I am a data analyst who leverages Python, Power BI, and ETL techniques to transform raw data into actionable insights, focusing on dashboarding, reporting, and machine learning to inform strategic decisions. My work emphasizes uncovering patterns in sales, customer behavior, and financial metrics to support data-driven forecasting and performance tracking across industries. I prioritize turning complex datasets into clear, impactful visualizations that drive business intelligence and informed decision-making.
 
 ---
 
@@ -30,7 +30,7 @@ I am a data analyst who specializes in turning raw, multi‑source datasets into
 
 ## 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-Developed an end‑to‑end analytics pipeline that transformed Vodafone Qatar’s 2021‑2023 telecom data into a unified, ML‑ready dataset and interactive Power BI dashboard for revenue forecasting, churn monitoring, and strategic financial planning. The solution enables finance and strategy teams to make proactive, data‑driven decisions across regions and customer segments.
+Developed a revenue forecasting and performance analysis solution for Vodafone Qatar using Power BI, transforming raw telecom data into actionable business intelligence. The project leverages Python and Microsoft Fabric to create an ML-ready dataset, enabling accurate forecasting and strategic decision-making for finance teams.
 
 <br><br>
 
@@ -55,7 +55,7 @@ Developed an end‑to‑end analytics pipeline that transformed Vodafone Qatar�
 
 ## 2. Walmart Store Sales
 
-This project analyzes Walmart store sales trends across 45 US locations from 2010 to 2012, highlighting challenges during the recession. It uses Power BI to create detailed visualizations, DAX measures, and custom visuals for clear insights.
+"Developeda Power BI dashboard analyzing Walmart store sales trends from 2010 to 2012, focusing on year-over-year performance during the post-recession era. The project emphasizes data analytics in retail, showcasing how economic factors impacted sales across 45 US stores."
 
 <br><br>
 
