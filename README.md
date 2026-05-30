@@ -1,6 +1,6 @@
 # Hi, I'm kalkidan 👋
 
-## Power BI Developer
+## Power BI
 
 
 ## Skills & Tools
@@ -11,7 +11,7 @@
 
 ## About
 
-I am a data analyst who leverages Python, Power BI, and ETL techniques to transform raw data into actionable insights, focusing on dashboarding, reporting, and machine learning to inform strategic decisions. My work emphasizes uncovering patterns in sales, customer behavior, and financial metrics to support data-driven forecasting and performance tracking across industries. I prioritize turning complex datasets into clear, impactful visualizations that drive business intelligence and informed decision-making.
+I am a data analyst passionate about transforming raw data into actionable insights that drive strategic decision-making. My work spans telecom and retail sectors, where I leverage tools like Python, Power BI, and Microsoft Fabric to build robust ETL pipelines, perform demand forecasting, and create interactive dashboards that uncover trends in customer behavior and sales performance. I specialize in turning complex datasets into clear, business-ready intelligence that empowers teams to act with confidence.
 
 ---
 
@@ -30,7 +30,7 @@ I am a data analyst who leverages Python, Power BI, and ETL techniques to transf
 
 ## 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-Developed a revenue forecasting and performance analysis solution for Vodafone Qatar using Power BI, transforming raw telecom data into actionable business intelligence. The project leverages Python and Microsoft Fabric to create an ML-ready dataset, enabling accurate forecasting and strategic decision-making for finance teams.
+Transformed raw Vodafone telecom data into actionable business intelligence using Python and Microsoft Fabric. Created a unified analytics foundation enabling smarter revenue forecasting and performance tracking for finance teams.
 
 <br><br>
 
@@ -55,7 +55,7 @@ Developed a revenue forecasting and performance analysis solution for Vodafone Q
 
 ## 2. Walmart Store Sales
 
-"Developeda Power BI dashboard analyzing Walmart store sales trends from 2010 to 2012, focusing on year-over-year performance during the post-recession era. The project emphasizes data analytics in retail, showcasing how economic factors impacted sales across 45 US stores."
+Analyzed year-over-year sales trends for 45 Walmart stores (2010-2012) to evaluate post-recession performance impacts using Power BI. Leveraged data analytics to deliver actionable insights on sales performance, CPI, and unemployment correlations, supporting strategic decision-making in retail operations.
 
 <br><br>
 

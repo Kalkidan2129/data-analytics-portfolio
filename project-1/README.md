@@ -5,50 +5,53 @@
 
 ## Project Summary
 
-The project transforms Vodafone Qatar’s raw telecom data (2021‑2023) into a unified, ML‑ready data foundation using NexusMax, Python, and Microsoft Fabric, enabling accurate revenue forecasting and performance analysis. Interactive Power BI dashboards surface key KPIs such as revenue, churn, ARPU and network availability for finance and strategy teams.
+This project analyzes Vodafone Qatar's revenue data from 2021–2023 to predict trends and identify churn risks. By leveraging data transformation and machine learning, it creates an ML-ready dataset for informed decision-making. The solution enhances forecasting accuracy and supports strategic budget allocation.
 
 ---
 
 ## Business Problem
 
-Vodafone’s finance and strategy groups lacked a consolidated view of revenue, subscriber growth, and churn across regions and segments, leading to uncertainty in budgeting and investment decisions. Quarterly revenue fluctuations and segment‑specific churn made it difficult to predict cash flow and allocate resources confidently.
+Vodafone Qatar faces challenges in predicting revenue shifts due to inconsistent data and high churn rates. Finance teams struggle with fragmented insights, leading to uncertain budget planning. The lack of a centralized analytics platform hinders proactive decision-making.
 
 ---
 
 ## Objective
 
-- Create a clean, centralized dataset that combines financial, subscriber and network metrics for 2021‑2023.
-- Develop predictive models to improve quarterly revenue forecast accuracy.
-- Build an interactive dashboard that highlights churn drivers and regional performance for rapid decision‑making.
+- Develop an ML-ready dataset for accurate revenue forecasting
+- Identify and reduce churn in high-risk segments
+- Unify disparate data sources into a centralized analytics platform
 
 ---
 
 ## Tools & Technologies
 
 - NexusMax
-- Python (pandas, scikit‑learn)
+- Python
 - Microsoft Fabric
-- Power BI
-- SQL / Data Warehousing
+- Power BI
+- Pandas
+- Machine Learning
+- Data Warehousing
+- ETL
 
 ---
 
 ## Project Workflow
 
-- Ingest raw telecom data from Kaggle and internal sources.
-- Clean, standardize and enrich the data; create a unified date dimension.
-- Engineer features for revenue, churn, ARPU and network availability.
-- Train supervised regression models for quarterly revenue forecasting.
-- Deploy Power BI dashboards that visualize trends, segment churn and forecast scenarios.
+- Clean and standardize raw telecom data for consistency
+- Apply supervised regression models for revenue forecasting
+- Create visualizations for key KPIs like revenue and churn
+- Analyze case studies to identify churn reduction opportunities
+- Deploy a unified dashboard for real-time insights
 
 ---
 
 ## Key Insights
 
-- Total revenue grew 14 % QoQ, reaching $108 K, driven primarily by Doha’s 72 M subscribers.
-- Churn for high‑value mobile prepaid customers exceeds 2.5 % (up 0.3 % QoQ), threatening revenue stability.
-- Network availability is exceptionally high at 99.95 %, providing a solid foundation for retention initiatives.
-- Post‑paid and Fixed Broadband segments show churn of 2.41‑2.74 %, translating to an estimated $8‑12 K annual revenue loss.
+- Revenue increased 14% QoQ with strong regional contributions from Doha
+- High churn in Mobile Postpaid and Fixed Broadband segments causes avoidable revenue loss
+- Network availability at 99.95% supports retention efforts but does not offset churn
+- Unified dataset enables proactive financial planning and risk identification
 
 ---
 
@@ -60,9 +63,9 @@ Vodafone’s finance and strategy groups lacked a consolidated view of revenue, 
 
 ## Business Impact
 
-- Enhanced forecast precision enables more effective budget allocation to high‑growth segments.
-- Identified churn hotspots offer a clear path to recover $8‑12 K in annual revenue through targeted retention programs.
-- The unified analytics platform reduces manual analysis time, delivering near‑real‑time insights to finance and strategy stakeholders.
+- Enhanced revenue forecasting accuracy improves budget allocation decisions
+- Targeted churn reduction strategies recover $8–12K in annual revenue
+- Centralized analytics platform accelerates decision-making for finance and strategy teams
 
 ---
 
