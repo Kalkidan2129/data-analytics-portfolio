@@ -1,4 +1,4 @@
-# Hi, I'm kalkidan bezabeh 👋
+# Hi, I'm kalkidan kindie 👋
 
 ## Power BI Developer
 
@@ -11,7 +11,7 @@
 
 ## About
 
-I am a data analyst who specializes in turning raw, multi‑source datasets into clear, actionable business intelligence through end‑to‑end ETL pipelines, statistical modeling, and interactive visualizations. My toolkit includes Python (Pandas), SQL‑based data warehousing, Microsoft Fabric, and Power BI, enabling me to build ML‑ready data foundations, forecast revenue and sales trends, and deliver concise dashboards that support strategic decision‑making across finance, retail, and telecommunications contexts. I focus on extracting hidden patterns, automating reporting, and presenting insights that drive measurable performance improvements.
+I am a data analyst passionate about transforming raw data into actionable insights, specializing in ETL processes, data warehousing, and business intelligence solutions using tools like Python, Power BI, and Microsoft Fabric. My work focuses on uncovering patterns in customer behavior and sales trends to drive strategic decision-making, with expertise in demand forecasting, reporting, and dashboard development. I thrive on turning complex datasets into clear, impactful visualizations that empower teams to make confident, data-driven decisions across industries like telecommunications and retail.
 
 ---
 
@@ -30,7 +30,7 @@ I am a data analyst who specializes in turning raw, multi‑source datasets into
 
 ## 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-Transformedraw telecom data into actionable business intelligence through revenue forecasting and performance analysis, enabling data-driven decisions for Vodafone Qatar's finance and strategy teams.
+Built an ML‑ready data pipeline and Power BI dashboard for Vodafone Qatar, delivering revenue forecasting, churn analysis, and actionable insights that empower finance and strategy teams.
 
 <br><br>
 
@@ -55,7 +55,7 @@ Transformedraw telecom data into actionable business intelligence through revenu
 
 ## 2. Walmart Store Sales
 
-Analyzed year‑over‑year sales for 45 Walmart stores (Feb 2010‑Oct 2012) using Power BI, delivering interactive dashboards that reveal seasonal trends, CPI impact, and unemployment correlations for retail strategy.
+Analyzed year-over-year sales trends for 45 Walmart stores (Feb 2010–Oct 2012) using Power BI and Excel to evaluate post-recession retail performance.
 
 <br><br>
 
