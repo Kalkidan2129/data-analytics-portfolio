@@ -1,6 +1,6 @@
-# Hi, I'm kalkidan 👋
+# Hi, I'm Kalkidan Bezabeh 👋
 
-## Power BI
+## Power BI Developer
 
 
 ## Skills & Tools
@@ -11,7 +11,7 @@
 
 ## About
 
-I am a dataanalyst focused on transforming raw data into actionable insights through advanced analytics and visualization. I leverage Power BI, Python (including Pandas), and ETL processes to build data-driven solutions, with expertise in machine learning and demand forecasting to support strategic decision-making. My work emphasizes dashboarding, reporting, and business intelligence to help organizations optimize performance and drive data-informed strategies.
+This portfolio showcases 2 data analytics and business intelligence projects focused on forecasting, telecommunications, retail analytics, machine learning, business performance analysis. It demonstrates practical experience in transforming raw project work into professional dashboards, analytics solutions, and business-focused reporting outputs.
 
 ---
 
@@ -30,7 +30,7 @@ I am a dataanalyst focused on transforming raw data into actionable insights thr
 
 ## 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-Developed a unified, ML‑ready data foundation for Vodafone Qatar, transforming raw telecom data with NexusMax, Python, and Microsoft Fabric to enable accurate revenue forecasting and churn analysis. Delivered a Power BI dashboard that empowers finance and strategy teams to make data‑driven decisions.
+Developed an end‑to‑end analytics pipeline that transformed Vodafone Qatar’s 2021‑2023 telecom data using Python, Microsoft Fabric, and Power BI into a unified, ML‑ready dataset and interactive dashboard for finance and strategy teams. The solution enables proactive revenue forecasting, churn monitoring, and data‑driven decision‑making across the business.
 
 <br><br>
 
@@ -55,7 +55,7 @@ Developed a unified, ML‑ready data foundation for Vodafone Qatar, transforming
 
 ## 2. Walmart Store Sales
 
-The project utilizes Power BI for data visualization and reporting. Key metrics are displayed to stakeholders effectively.
+Developed an interactive Power BI dashboard analyzing year‑over‑year sales trends across 45 U.S. Walmart stores from 2010‑2012, incorporating custom date tables, DAX measures, and KPI visualizations.
 
 <br><br>
 
