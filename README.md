@@ -11,7 +11,7 @@
 
 ## About
 
-I am a data analyst focused on transforming raw data into actionable business insights through robust analytics and visualization. My work leverages tools like Python, Pandas, Power BI, and Microsoft Fabric to clean, enrich, and model data, enabling demand forecasting, performance tracking, and strategic decision-making across industries like telecommunications and retail. I specialize in building scalable data foundations and intuitive dashboards that bridge technical analysis with business outcomes, helping teams optimize operations and drive growth.
+I transform raw data into actionable business intelligence using tools like Python and Power BI to build insightful dashboards and reports that drive strategic decision-making. My focus is on uncovering hidden patterns and trends within datasets to deliver clear, impactful analytics across various industries. I specialize in translating complex information into understandable visualizations that empower teams to make confident, data-driven choices.
 
 ---
 
@@ -30,7 +30,7 @@ I am a data analyst focused on transforming raw data into actionable business in
 
 ## 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-This project transforms Vodafone Qatar's telecom data into actionable insights, enabling smarter revenue forecasting and performance tracking. It provides finance and strategy teams with a unified, ML-ready data foundation for confident, data-driven decision-making.
+This project transforms Vodafone Qatar’s telecom data into an ML‑ready dataset and a Power BI dashboard that supports revenue forecasting and performance tracking. It empowers finance and strategy teams with actionable insights for data‑driven decision‑making.
 
 <br><br>
 
@@ -55,7 +55,7 @@ This project transforms Vodafone Qatar's telecom data into actionable insights, 
 
 ## 2. Walmart Store Sales
 
-Developed an interactive Power BI dashboard analyzing year‑over‑year sales trends for 45 U.S. Walmart stores from 2010‑2012, incorporating custom date tables, DAX measures, and KPI visualizations.
+Power BI was used to analyze Walmart sales data. Key insights were presented visually.
 
 <br><br>
 
