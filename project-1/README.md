@@ -3,53 +3,53 @@
 
 ## Project Summary
 
-This project transforms Vodafone Qatar’s 2021–2023 telecom data into a unified, ML‑ready foundation using NexusMax, Python, and Microsoft Fabric. The resulting dashboard and forecasting models provide finance and strategy teams with actionable insights into revenue, churn, and network performance, enabling more accurate budgeting and risk mitigation.
+This project leverages advanced analytics to transform Vodafone Qatar's telecom data into a unified, ML-ready foundation, empowering telecom leaders with predictive insights for smarter revenue planning and strategic decision-making.
 
 ---
 
 ## Business Problem
 
-Telecom revenue fluctuates across regions and segments, yet finance teams lack a consolidated view to understand growth drivers and revenue risks. Uncertainty in churn and subscriber behavior hampers confident forecasting and budget planning.
+Telecom revenue performance is inconsistent across regions and segments, hindering accurate forecasting and budget planning without a consolidated, enriched dataset.
 
 ---
 
 ## Objective
 
-- Create a clean, standardized dataset that integrates revenue, churn, ARPU, and network KPIs.
-- Develop supervised regression models to forecast quarterly revenue with higher accuracy.
-- Build an interactive Power BI dashboard to visualize performance trends and segment risks.
+- Improve revenue forecasting accuracy using historical telecom data
+- Identify key drivers of churn and subscriber behavior
+- Enable proactive decision-making through actionable performance insights
 
 ---
 
 ## Tools & Technologies
 
-- Microsoft Fabric
 - NexusMax
 - Python
-- Pandas
+- Microsoft Fabric
 - Power BI
-- Supervised Regression
-- Data Engineering
-- Data Visualization
+- Pandas
+- ETL tools
+- Data visualization libraries
+- Machine learning frameworks
 
 ---
 
 ## Project Workflow
 
-- Extract and clean raw telecom data from Kaggle and investor presentations.
-- Standardize metrics, resolve missing values, and create a central date table.
-- Engineer features and build a unified, ML‑ready dataset in Fabric.
-- Train regression models to forecast quarterly revenue and validate accuracy.
-- Deploy insights in a Power BI dashboard and share via Colaberry Power BI Cloud.
+- Data cleaning and standardization of raw telecom datasets
+- Feature engineering and enrichment using NexusMax and Python
+- Data integration and transformation into a unified schema
+- Model selection and training for revenue forecasting
+- Building and deploying dashboards via Power BI
+- Generating actionable insights and performance reports
 
 ---
 
 ## Key Insights
 
-- Total revenue grew 14% QoQ to $108K, driven largely by Doha’s 72M subscribers.
-- High‑value prepaid churn remains above 2.5%, rising 0.3% QoQ, threatening revenue stability.
-- Network availability is 99.95%, supporting strong customer experience but segment churn still ranges 2.41%–2.74%.
-- Segment churn above overall rate could cost $8–12K annually, indicating a clear opportunity for retention initiatives.
+- The dataset reveals significant regional and segment variations in revenue and churn patterns.
+- Customer behavior and network performance trends provide early signals of revenue shifts.
+- Churn rates in specific segments remain a critical risk area impacting annual revenue.
 
 ---
 
@@ -61,22 +61,9 @@ Telecom revenue fluctuates across regions and segments, yet finance teams lack a
 
 ## Business Impact
 
-- Enhanced forecasting accuracy reduces revenue planning uncertainty, enabling more precise budget allocation.
-- Visibility into segment churn allows targeted retention strategies, potentially saving millions in lost revenue.
-- Unified analytics accelerates decision‑making, cutting manual analysis time and improving strategic responsiveness.
-
----
-
-## Files Included
-
-- README.md
-- project-data.json
-
----
-
-## Generation Method
-
-This project page was generated using: **AI-assisted project analysis**
+- Enables finance and strategy teams to anticipate revenue changes and allocate resources more effectively.
+- Improves risk management by highlighting high-churn segments before losses occur.
+- Supports data-driven investment decisions and strategic planning across the telecom business.
 
 ---
 

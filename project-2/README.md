@@ -3,52 +3,51 @@
 
 ## Project Summary
 
-Developed a Power BI dashboard to evaluate year‑over‑year sales for 45 randomly selected Walmart stores in the U.S. between February 2010 and October 2012, a period marked by recovery from the 2008 recession. The dashboard incorporates data modeling, conditional columns, DAX measures, and visual branding to provide actionable insights into sales performance and external factors such as holidays and unemployment.
+The project developed a Power BI dashboard that analyzed year‑over‑year sales across 45 randomly selected Walmart stores in the United States from February 2010 to October 2012. It captured the post‑recession sales impact typical of discount retailers.
 
 ---
 
 ## Business Problem
 
-Retail managers needed a clear, data‑driven view of how macroeconomic conditions and seasonal factors impacted sales during the early post‑recession period. Without this insight, strategic decisions on inventory, staffing, and promotions were based on incomplete or anecdotal information.
+Following the 2008 great recession, Walmart stores experienced sales declines comparable to other discount and department stores. Understanding these trends was essential for guiding recovery and growth strategies.
 
 ---
 
 ## Objective
 
-- Import and clean Walmart sales data into Power BI.
-- Create a comprehensive date hierarchy and refresh logic for accurate time‑based analysis.
-- Develop DAX measures and conditional columns to quantify sales trends, holiday effects, and unemployment impact.
+- Import Walmart sales CSV data into Power BI and build a calendar table for date analysis
+- Create DAX measures to calculate total sales, monthly averages, and year‑over‑year growth
+- Design interactive visualizations to compare sales performance across stores over time
 
 ---
 
 ## Tools & Technologies
 
 - Power BI Desktop
-- Power BI Cloud
+- Power BI Service (Colaberry Cloud)
 - Excel
+- CSV
 - DAX
 - Power Query
-- CSV
-- Power BI Visualizations
 
 ---
 
 ## Project Workflow
 
-- Import the Walmart sales CSV into Power BI and preview the data.
-- Build a Calendar table and a Refresh Date table using DAX.
-- Establish relationships between the Walmart table and the Calendar table.
-- Create conditional columns for holidays and unemployment rates, then sort them appropriately.
-- Define DAX measures for total sales, monthly averages, and year‑over‑year growth.
+- Import the Walmart sales CSV file into Power BI Desktop
+- Create a calendar table and refresh the date table for temporal analysis
+- Establish a relationship between the Walmart and Calendar tables
+- Add conditional and sorting columns to enrich the data model
+- Develop DAX measures, build visualizations, and publish the dashboard to Power BI Cloud
 
 ---
 
 ## Key Insights
 
-- Sales volumes fluctuated significantly during holiday weeks, indicating strong seasonal demand.
-- Unemployment rate variations correlated with dips in weekly sales, highlighting sensitivity to economic conditions.
-- Year‑over‑year growth rates varied across stores, suggesting differing recovery trajectories post‑recession.
-- Custom sorting of holiday and unemployment flags enabled clearer trend visualization in the dashboard.
+- Sales performance varied significantly among the 45 stores, with some showing stronger recovery than others
+- Year‑over‑year analysis revealed mixed growth trends, indicating uneven recovery from the 2008 recession
+- Conditional columns for holidays and unemployment rates helped explain sales fluctuations
+- Interactive visualizations enabled stakeholders to compare monthly sales trends across stores and time periods
 
 ---
 
@@ -60,22 +59,9 @@ Retail managers needed a clear, data‑driven view of how macroeconomic conditio
 
 ## Business Impact
 
-- Provided store managers with a visual tool to track performance against macroeconomic indicators.
-- Enabled data‑driven decisions on staffing and inventory during high‑impact periods.
-- Improved strategic planning by revealing which stores were most resilient to economic swings.
-
----
-
-## Files Included
-
-- README.md
-- project-data.json
-
----
-
-## Generation Method
-
-This project page was generated using: **AI-assisted project analysis**
+- Identified underperforming stores to target improvement initiatives
+- Provided data‑driven insights into economic impacts on sales for strategic decision‑making
+- Enabled continuous monitoring of sales trends for proactive market response
 
 ---
 

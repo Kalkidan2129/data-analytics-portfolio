@@ -1,6 +1,6 @@
-# Hi, I'm kalkidan 👋
+# Hi, I'm Kalkidan Bezabeh 👋
 
-## Power BI Develper
+## Power BI Developer
 
 
 ## Skills & Tools
@@ -11,7 +11,7 @@
 
 ## About
 
-I turn raw operational data into clear, actionable insights, using Python, Pandas, and Microsoft Fabric to clean, enrich, and model datasets before visualizing them in Power BI dashboards. My work spans telecom and retail, where I’ve built forecasting models, churn analyses, and year‑over‑year sales reports that guide finance and strategy teams toward data‑driven decisions. I combine ETL, data warehousing, and machine‑learning techniques to deliver end‑to‑end analytics solutions that translate complex data into intuitive, decision‑support tools.
+I am a data analyst passionate about transforming complex datasets into strategic business insights. My work spans industries like telecommunications and retail, where I leverage tools such as Python, Power BI, and data warehousing platforms to build ETL pipelines, perform forecasting, and create interactive dashboards that drive decision-making. I thrive on turning raw data into clear, actionable intelligence—whether analyzing customer behavior, sales trends, or financial performance—to help teams make informed, forward-looking choices.
 
 ---
 
@@ -55,7 +55,7 @@ Developed an end‑to‑end analytics pipeline that transformed Vodafone Qatar�
 
 ## 2. Walmart Store Sales
 
-Analyzed year‑over‑year sales for 45 Walmart stores during 2010‑2012 using Power BI, creating interactive dashboards that track sales, CPI, and unemployment impacts. The project demonstrates advanced data modeling, DAX metrics, and visual storytelling for retail performance insights.
+Developed an interactive Power BI dashboard analyzing year‑over‑year sales trends across 45 U.S. Walmart stores from 2010‑2012, incorporating custom date tables, DAX measures, and visual insights on sales, CPI, and unemployment impacts.
 
 <br><br>
 
@@ -72,4 +72,4 @@ Analyzed year‑over‑year sales for 45 Walmart stores during 2010‑2012 using
 
 ## Contact
 
-[GitHub](https://github.com/kalkidan2129) | [Email](mailto:kalkidankin@gmail.com)
+[GitHub](https://github.com/kalkidan2129) | [Email](mailto:kalkidankin@gmsil.com)
