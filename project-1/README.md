@@ -3,53 +3,51 @@
 
 ## Project Summary
 
-This project leverages advanced analytics to transform Vodafone Qatar's telecom data into a unified, ML-ready foundation, empowering telecom leaders with predictive insights for smarter revenue planning and strategic decision-making.
+This project leverages advanced analytics to transform Vodafone Qatar's telecom data into a unified, ML-ready foundation, enabling telecom leaders to predict revenue shifts and optimize strategic decisions.
 
 ---
 
 ## Business Problem
 
-Telecom revenue performance is inconsistent across regions and segments, hindering accurate forecasting and budget planning without a consolidated, enriched dataset.
+Telecom revenue performance is fragmented across regions and segments, hindering accurate forecasting and risk management.
 
 ---
 
 ## Objective
 
-- Improve revenue forecasting accuracy using historical telecom data
-- Identify key drivers of churn and subscriber behavior
-- Enable proactive decision-making through actionable performance insights
+- Improve revenue forecasting accuracy for proactive planning
+- Identify key drivers of churn and customer retention
+- Develop a scalable data foundation for machine learning insights
 
 ---
 
 ## Tools & Technologies
 
-- NexusMax
 - Python
+- NexusMax
 - Microsoft Fabric
 - Power BI
 - Pandas
-- ETL tools
-- Data visualization libraries
-- Machine learning frameworks
+- ETL Pipelines
+- Data Visualization Tools
 
 ---
 
 ## Project Workflow
 
-- Data cleaning and standardization of raw telecom datasets
-- Feature engineering and enrichment using NexusMax and Python
-- Data integration and transformation into a unified schema
-- Model selection and training for revenue forecasting
-- Building and deploying dashboards via Power BI
-- Generating actionable insights and performance reports
+- Data ingestion and cleaning from raw Vodafone datasets
+- Feature engineering and normalization for analytical readiness
+- Model development and training using supervised learning techniques
+- Integration of enriched data into a centralized Power BI dashboard
+- Visualization of trends and key performance indicators
 
 ---
 
 ## Key Insights
 
-- The dataset reveals significant regional and segment variations in revenue and churn patterns.
-- Customer behavior and network performance trends provide early signals of revenue shifts.
-- Churn rates in specific segments remain a critical risk area impacting annual revenue.
+- The dataset reveals significant regional and segment-level variations in revenue and churn.
+- Network reliability and subscriber growth patterns provide actionable forecasting signals.
+- High network availability supports stable performance, but certain segments face persistent churn.
 
 ---
 
@@ -61,9 +59,9 @@ Telecom revenue performance is inconsistent across regions and segments, hinderi
 
 ## Business Impact
 
-- Enables finance and strategy teams to anticipate revenue changes and allocate resources more effectively.
-- Improves risk management by highlighting high-churn segments before losses occur.
-- Supports data-driven investment decisions and strategic planning across the telecom business.
+- Enables finance and strategy teams to make data-driven decisions with reduced uncertainty.
+- Facilitates targeted retention strategies to lower unexpected revenue losses.
+- Supports long-term planning by highlighting high-growth and high-risk segments.
 
 ---
 

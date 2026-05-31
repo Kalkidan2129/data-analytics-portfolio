@@ -11,7 +11,7 @@
 
 ## About
 
-I am a data analyst passionate about transforming complex datasets into strategic business insights. My work spans industries like telecommunications and retail, where I leverage tools such as Python, Power BI, and data warehousing platforms to build ETL pipelines, perform forecasting, and create interactive dashboards that drive decision-making. I thrive on turning raw data into clear, actionable intelligence—whether analyzing customer behavior, sales trends, or financial performance—to help teams make informed, forward-looking choices.
+I am a data analyst focused on transforming raw data into actionable business insights through robust analytics and visualization. My work leverages tools like Python, Pandas, Power BI, and Microsoft Fabric to clean, enrich, and model data, enabling demand forecasting, performance tracking, and strategic decision-making across industries like telecommunications and retail. I specialize in building scalable data foundations and intuitive dashboards that bridge technical analysis with business outcomes, helping teams optimize operations and drive growth.
 
 ---
 
@@ -30,7 +30,7 @@ I am a data analyst passionate about transforming complex datasets into strategi
 
 ## 1. Revenue Forecasting and Performance Analysis of Vodafone Qatar (2021–2023)
 
-Developed an end‑to‑end analytics pipeline that transformed Vodafone Qatar’s 2021‑2023 telecom data into a unified, ML‑ready dataset and interactive Power BI dashboard for finance and strategy teams. The solution enables proactive revenue forecasting, churn monitoring, and data‑driven decision‑making across the business.
+This project transforms Vodafone Qatar's telecom data into actionable insights, enabling smarter revenue forecasting and performance tracking. It provides finance and strategy teams with a unified, ML-ready data foundation for confident, data-driven decision-making.
 
 <br><br>
 
@@ -55,7 +55,7 @@ Developed an end‑to‑end analytics pipeline that transformed Vodafone Qatar�
 
 ## 2. Walmart Store Sales
 
-Developed an interactive Power BI dashboard analyzing year‑over‑year sales trends across 45 U.S. Walmart stores from 2010‑2012, incorporating custom date tables, DAX measures, and visual insights on sales, CPI, and unemployment impacts.
+Developed an interactive Power BI dashboard analyzing year‑over‑year sales trends for 45 U.S. Walmart stores from 2010‑2012, incorporating custom date tables, DAX measures, and KPI visualizations.
 
 <br><br>
 
@@ -72,4 +72,4 @@ Developed an interactive Power BI dashboard analyzing year‑over‑year sales
 
 ## Contact
 
-[GitHub](https://github.com/kalkidan2129) | [Email](mailto:kalkidankin@gmsil.com)
+[GitHub](https://github.com/kalkidan2129) | [Email](mailto:Kalkidankin@gmail.com)
